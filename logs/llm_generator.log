@@ -1,0 +1,763 @@
+{
+  "timestamp": "2026-07-30T15:10:10.018370",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Gemini model: gemini-1.5-flash",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-30T15:41:54.698936",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Gemini model: gemini-1.5-flash",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-30T15:42:36.908763",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Gemini model: gemini-1.5-flash",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-30T15:47:21.595464",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Gemini model: gemini-1.5-flash",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-30T15:50:00.300273",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Gemini model: gemini-1.5-flash",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-30T15:53:12.673511",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Gemini model: gemini-1.5-flash",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-30T15:53:13.136852",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Gemini model: gemini-1.5-flash",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-30T16:00:18.523582",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Gemini model: gemini-1.5-flash",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-30T16:05:13.453221",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Gemini model: gemini-1.5-flash",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-30T16:07:31.971147",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Gemini model: gemini-1.5-flash",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-30T16:12:40.094937",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Gemini model: gemini-1.5-flash",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-30T16:28:08.438468",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Gemini model: gemini-1.5-flash",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-30T16:28:13.559978",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Gemini model: gemini-1.5-flash",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-30T16:30:59.732064",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Gemini model: gemini-1.5-flash",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-30T16:31:48.541509",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Gemini model: gemini-1.5-flash",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-30T16:34:00.995916",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Gemini model: gemini-1.5-flash",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-30T16:35:10.224225",
+  "level": "ERROR",
+  "logger": "llm_generator",
+  "message": "Error generating answer: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "module": "llm",
+  "function": "generate",
+  "line": 67
+}
+{
+  "timestamp": "2026-07-30T16:42:53.205794",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Gemini model: gemini-pro",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-30T16:43:26.345925",
+  "level": "ERROR",
+  "logger": "llm_generator",
+  "message": "Error generating answer: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "module": "llm",
+  "function": "generate",
+  "line": 67
+}
+{
+  "timestamp": "2026-07-30T16:44:26.878262",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Gemini model: gemini-1.0-pro",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-30T16:44:55.516543",
+  "level": "ERROR",
+  "logger": "llm_generator",
+  "message": "Error generating answer: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "module": "llm",
+  "function": "generate",
+  "line": 67
+}
+{
+  "timestamp": "2026-07-30T16:46:21.011916",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Gemini model: gemini-1.0-pro",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-30T16:49:13.701166",
+  "level": "ERROR",
+  "logger": "llm_generator",
+  "message": "Error generating answer: 404 models/gemini-1.0-pro is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.",
+  "module": "llm",
+  "function": "generate",
+  "line": 67
+}
+{
+  "timestamp": "2026-07-30T16:52:51.945471",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Gemini model: models/gemini-2.5-flash",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-30T16:54:00.601289",
+  "level": "ERROR",
+  "logger": "llm_generator",
+  "message": "Error generating answer: 404 This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use a newer model for the latest features and improvements.",
+  "module": "llm",
+  "function": "generate",
+  "line": 67
+}
+{
+  "timestamp": "2026-07-30T16:55:42.289499",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Gemini model: models/gemini-2.0-flash",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-30T16:57:33.108417",
+  "level": "ERROR",
+  "logger": "llm_generator",
+  "message": "Error generating answer: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 27.493802895s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\n, retry_delay {\n  seconds: 27\n}\n]",
+  "module": "llm",
+  "function": "generate",
+  "line": 67
+}
+{
+  "timestamp": "2026-07-30T16:58:16.193809",
+  "level": "ERROR",
+  "logger": "llm_generator",
+  "message": "Error generating answer: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 44.329135681s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\n, retry_delay {\n  seconds: 44\n}\n]",
+  "module": "llm",
+  "function": "generate",
+  "line": 67
+}
+{
+  "timestamp": "2026-07-30T17:02:29.090477",
+  "level": "ERROR",
+  "logger": "llm_generator",
+  "message": "Error generating answer: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 31.433292167s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\n, retry_delay {\n  seconds: 31\n}\n]",
+  "module": "llm",
+  "function": "generate",
+  "line": 67
+}
+{
+  "timestamp": "2026-07-30T17:03:15.563112",
+  "level": "ERROR",
+  "logger": "llm_generator",
+  "message": "Error generating answer: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 45.040635254s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\n, retry_delay {\n  seconds: 45\n}\n]",
+  "module": "llm",
+  "function": "generate",
+  "line": 67
+}
+{
+  "timestamp": "2026-07-31T11:15:27.296236",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Gemini model: models/gemini-2.0-flash",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-31T11:15:57.218870",
+  "level": "ERROR",
+  "logger": "llm_generator",
+  "message": "Error generating answer: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 3.647111613s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\n, retry_delay {\n  seconds: 3\n}\n]",
+  "module": "llm",
+  "function": "generate",
+  "line": 67
+}
+{
+  "timestamp": "2026-07-31T11:33:23.837112",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Groq model: llama3-70b-8192",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-31T11:38:08.452148",
+  "level": "ERROR",
+  "logger": "llm_generator",
+  "message": "Error generating answer: Error code: 400 - {'error': {'message': 'The model `llama3-70b-8192` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}",
+  "module": "llm",
+  "function": "generate",
+  "line": 73
+}
+{
+  "timestamp": "2026-07-31T11:39:31.423431",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Groq model: llama-3.3-70b-versatile",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-31T11:44:36.120025",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Groq model: llama-3.3-70b-versatile",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-31T11:56:16.589094",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Groq model: llama-3.3-70b-versatile",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-31T12:00:33.779142",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Groq model: llama-3.3-70b-versatile",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-31T12:01:03.584144",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Groq model: llama-3.3-70b-versatile",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-31T12:01:39.674039",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Answer generated",
+  "module": "logger",
+  "function": "log_generation",
+  "line": 150,
+  "model": "llama-3.3-70b-versatile",
+  "prompt_tokens": 848,
+  "completion_tokens": 80,
+  "latency_seconds": 0.7794382572174072
+}
+{
+  "timestamp": "2026-07-31T12:02:11.596508",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Answer generated",
+  "module": "logger",
+  "function": "log_generation",
+  "line": 150,
+  "model": "llama-3.3-70b-versatile",
+  "prompt_tokens": 700,
+  "completion_tokens": 69,
+  "latency_seconds": 0.6552150249481201
+}
+{
+  "timestamp": "2026-07-31T12:02:52.539457",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Answer generated",
+  "module": "logger",
+  "function": "log_generation",
+  "line": 150,
+  "model": "llama-3.3-70b-versatile",
+  "prompt_tokens": 785,
+  "completion_tokens": 23,
+  "latency_seconds": 0.5049948692321777
+}
+{
+  "timestamp": "2026-07-31T12:29:22.851106",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Groq model: llama-3.3-70b-versatile",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-31T12:29:22.875974",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Groq model: llama-3.3-70b-versatile",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-31T12:30:33.399110",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Answer generated",
+  "module": "logger",
+  "function": "log_generation",
+  "line": 150,
+  "model": "llama-3.3-70b-versatile",
+  "prompt_tokens": 730,
+  "completion_tokens": 43,
+  "latency_seconds": 0.48303794860839844
+}
+{
+  "timestamp": "2026-07-31T12:30:55.934991",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Answer generated",
+  "module": "logger",
+  "function": "log_generation",
+  "line": 150,
+  "model": "llama-3.3-70b-versatile",
+  "prompt_tokens": 736,
+  "completion_tokens": 169,
+  "latency_seconds": 0.7059955596923828
+}
+{
+  "timestamp": "2026-07-31T12:30:57.512741",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Answer generated",
+  "module": "logger",
+  "function": "log_generation",
+  "line": 150,
+  "model": "llama-3.3-70b-versatile",
+  "prompt_tokens": 769,
+  "completion_tokens": 326,
+  "latency_seconds": 1.5266528129577637
+}
+{
+  "timestamp": "2026-07-31T12:30:58.253290",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Answer generated",
+  "module": "logger",
+  "function": "log_generation",
+  "line": 150,
+  "model": "llama-3.3-70b-versatile",
+  "prompt_tokens": 763,
+  "completion_tokens": 133,
+  "latency_seconds": 0.6634104251861572
+}
+{
+  "timestamp": "2026-07-31T12:30:58.744900",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Answer generated",
+  "module": "logger",
+  "function": "log_generation",
+  "line": 150,
+  "model": "llama-3.3-70b-versatile",
+  "prompt_tokens": 677,
+  "completion_tokens": 46,
+  "latency_seconds": 0.44307470321655273
+}
+{
+  "timestamp": "2026-07-31T12:30:59.934004",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Answer generated",
+  "module": "logger",
+  "function": "log_generation",
+  "line": 150,
+  "model": "llama-3.3-70b-versatile",
+  "prompt_tokens": 832,
+  "completion_tokens": 297,
+  "latency_seconds": 1.1220676898956299
+}
+{
+  "timestamp": "2026-07-31T12:31:00.576772",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Answer generated",
+  "module": "logger",
+  "function": "log_generation",
+  "line": 150,
+  "model": "llama-3.3-70b-versatile",
+  "prompt_tokens": 788,
+  "completion_tokens": 147,
+  "latency_seconds": 0.5781807899475098
+}
+{
+  "timestamp": "2026-07-31T12:40:06.082224",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Answer generated",
+  "module": "logger",
+  "function": "log_generation",
+  "line": 150,
+  "model": "llama-3.3-70b-versatile",
+  "prompt_tokens": 736,
+  "completion_tokens": 137,
+  "latency_seconds": 0.835792064666748
+}
+{
+  "timestamp": "2026-07-31T12:40:07.299580",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Answer generated",
+  "module": "logger",
+  "function": "log_generation",
+  "line": 150,
+  "model": "llama-3.3-70b-versatile",
+  "prompt_tokens": 769,
+  "completion_tokens": 323,
+  "latency_seconds": 1.165111780166626
+}
+{
+  "timestamp": "2026-07-31T12:40:07.953908",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Answer generated",
+  "module": "logger",
+  "function": "log_generation",
+  "line": 150,
+  "model": "llama-3.3-70b-versatile",
+  "prompt_tokens": 763,
+  "completion_tokens": 133,
+  "latency_seconds": 0.5625951290130615
+}
+{
+  "timestamp": "2026-07-31T12:40:08.354213",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Answer generated",
+  "module": "logger",
+  "function": "log_generation",
+  "line": 150,
+  "model": "llama-3.3-70b-versatile",
+  "prompt_tokens": 677,
+  "completion_tokens": 46,
+  "latency_seconds": 0.3201160430908203
+}
+{
+  "timestamp": "2026-07-31T12:40:09.550803",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Answer generated",
+  "module": "logger",
+  "function": "log_generation",
+  "line": 150,
+  "model": "llama-3.3-70b-versatile",
+  "prompt_tokens": 832,
+  "completion_tokens": 302,
+  "latency_seconds": 1.1232523918151855
+}
+{
+  "timestamp": "2026-07-31T12:40:10.250053",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Answer generated",
+  "module": "logger",
+  "function": "log_generation",
+  "line": 150,
+  "model": "llama-3.3-70b-versatile",
+  "prompt_tokens": 788,
+  "completion_tokens": 139,
+  "latency_seconds": 0.6297099590301514
+}
+{
+  "timestamp": "2026-07-31T12:52:06.459496",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Groq model: llama-3.3-70b-versatile",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-31T12:57:31.584617",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Groq model: llama-3.3-70b-versatile",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-31T13:02:31.899023",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Answer generated",
+  "module": "logger",
+  "function": "log_generation",
+  "line": 150,
+  "model": "llama-3.3-70b-versatile",
+  "prompt_tokens": 813,
+  "completion_tokens": 191,
+  "latency_seconds": 0.8517212867736816
+}
+{
+  "timestamp": "2026-07-31T13:08:43.048680",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Groq model: llama-3.3-70b-versatile",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-31T13:09:39.195767",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Answer generated",
+  "module": "logger",
+  "function": "log_generation",
+  "line": 150,
+  "model": "llama-3.3-70b-versatile",
+  "prompt_tokens": 773,
+  "completion_tokens": 107,
+  "latency_seconds": 0.5295031070709229
+}
+{
+  "timestamp": "2026-07-31T13:17:48.671886",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Groq model: llama-3.3-70b-versatile",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-31T13:18:18.122472",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Groq model: llama-3.3-70b-versatile",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-31T13:20:01.267909",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Answer generated",
+  "module": "logger",
+  "function": "log_generation",
+  "line": 150,
+  "model": "llama-3.3-70b-versatile",
+  "prompt_tokens": 773,
+  "completion_tokens": 113,
+  "latency_seconds": 0.7034406661987305
+}
+{
+  "timestamp": "2026-07-31T13:31:27.280615",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Groq model: llama-3.3-70b-versatile",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-31T13:31:27.363801",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Groq model: llama-3.3-70b-versatile",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-31T13:32:01.646443",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Answer generated",
+  "module": "logger",
+  "function": "log_generation",
+  "line": 150,
+  "model": "llama-3.3-70b-versatile",
+  "prompt_tokens": 812,
+  "completion_tokens": 158,
+  "latency_seconds": 0.8973259925842285
+}
+{
+  "timestamp": "2026-07-31T13:36:21.537399",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Groq model: llama-3.3-70b-versatile",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-31T13:36:21.873306",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Groq model: llama-3.3-70b-versatile",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-31T13:37:14.804921",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Answer generated",
+  "module": "logger",
+  "function": "log_generation",
+  "line": 150,
+  "model": "llama-3.3-70b-versatile",
+  "prompt_tokens": 800,
+  "completion_tokens": 127,
+  "latency_seconds": 0.6496496200561523
+}
+{
+  "timestamp": "2026-07-31T13:40:56.953738",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Groq model: llama-3.3-70b-versatile",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-31T13:40:56.963029",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Groq model: llama-3.3-70b-versatile",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-31T13:40:56.982276",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Initialized Groq model: llama-3.3-70b-versatile",
+  "module": "llm",
+  "function": "__init__",
+  "line": 20
+}
+{
+  "timestamp": "2026-07-31T13:42:10.455876",
+  "level": "INFO",
+  "logger": "llm_generator",
+  "message": "Answer generated",
+  "module": "logger",
+  "function": "log_generation",
+  "line": 150,
+  "model": "llama-3.3-70b-versatile",
+  "prompt_tokens": 755,
+  "completion_tokens": 95,
+  "latency_seconds": 0.5774717330932617
+}

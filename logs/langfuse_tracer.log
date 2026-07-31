@@ -1,0 +1,468 @@
+{
+  "timestamp": "2026-07-30T15:10:10.176764",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing enabled",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 23
+}
+{
+  "timestamp": "2026-07-30T15:41:54.850335",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing enabled",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 23
+}
+{
+  "timestamp": "2026-07-30T15:42:37.062189",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing enabled",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 23
+}
+{
+  "timestamp": "2026-07-30T15:47:21.750377",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing enabled",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 23
+}
+{
+  "timestamp": "2026-07-30T15:50:00.545447",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing enabled",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 23
+}
+{
+  "timestamp": "2026-07-30T15:53:12.909435",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing enabled",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 24
+}
+{
+  "timestamp": "2026-07-30T15:53:13.304483",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing enabled",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 24
+}
+{
+  "timestamp": "2026-07-30T16:00:18.680636",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing enabled",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 24
+}
+{
+  "timestamp": "2026-07-30T16:05:13.598223",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing enabled",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 24
+}
+{
+  "timestamp": "2026-07-30T16:07:32.111787",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing enabled",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 24
+}
+{
+  "timestamp": "2026-07-30T16:12:40.288603",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing enabled",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 24
+}
+{
+  "timestamp": "2026-07-30T16:28:08.732841",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing enabled",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 24
+}
+{
+  "timestamp": "2026-07-30T16:28:14.038695",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing enabled",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 24
+}
+{
+  "timestamp": "2026-07-30T16:30:59.736845",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing disabled (no API keys)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 32
+}
+{
+  "timestamp": "2026-07-30T16:31:48.555627",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing disabled (no API keys)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 32
+}
+{
+  "timestamp": "2026-07-30T16:34:01.000794",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing disabled (no API keys)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 32
+}
+{
+  "timestamp": "2026-07-30T16:42:53.208698",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing disabled (no API keys)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 32
+}
+{
+  "timestamp": "2026-07-30T16:44:26.882627",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing disabled (no API keys)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 32
+}
+{
+  "timestamp": "2026-07-30T16:46:21.013157",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing disabled (no API keys)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 32
+}
+{
+  "timestamp": "2026-07-30T16:52:51.948688",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing disabled (no API keys)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 32
+}
+{
+  "timestamp": "2026-07-30T16:55:42.292775",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing disabled (no API keys)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 32
+}
+{
+  "timestamp": "2026-07-31T11:15:27.297233",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing disabled (no API keys)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 32
+}
+{
+  "timestamp": "2026-07-31T11:33:23.840764",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing disabled (no API keys)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 32
+}
+{
+  "timestamp": "2026-07-31T11:39:31.423748",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing disabled (no API keys)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 32
+}
+{
+  "timestamp": "2026-07-31T11:44:36.122507",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing disabled (no API keys)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 32
+}
+{
+  "timestamp": "2026-07-31T11:56:16.591939",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing disabled (no API keys)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 32
+}
+{
+  "timestamp": "2026-07-31T12:00:33.781099",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing disabled (no API keys)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 32
+}
+{
+  "timestamp": "2026-07-31T12:01:03.586779",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing disabled (no API keys)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 32
+}
+{
+  "timestamp": "2026-07-31T12:29:22.878854",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing disabled (no API keys)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 32
+}
+{
+  "timestamp": "2026-07-31T12:29:22.880371",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing disabled (no API keys)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 32
+}
+{
+  "timestamp": "2026-07-31T12:29:22.880371",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing disabled (no API keys)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 32
+}
+{
+  "timestamp": "2026-07-31T12:29:22.882235",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing disabled (no API keys)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 32
+}
+{
+  "timestamp": "2026-07-31T12:52:06.462701",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing disabled (no API keys)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 32
+}
+{
+  "timestamp": "2026-07-31T12:57:31.589021",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing disabled (no API keys)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 32
+}
+{
+  "timestamp": "2026-07-31T13:08:43.069602",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing disabled (no API keys)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 32
+}
+{
+  "timestamp": "2026-07-31T13:17:49.345613",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing enabled",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 24
+}
+{
+  "timestamp": "2026-07-31T13:18:20.522501",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing enabled",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 24
+}
+{
+  "timestamp": "2026-07-31T13:31:27.900008",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing enabled (session: ad9db973-3aaa-421b-97ae-c587cd102de1)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 27
+}
+{
+  "timestamp": "2026-07-31T13:31:28.260406",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing enabled (session: 7f19c4ae-dad5-4c0c-bd7e-3cb12994e46d)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 27
+}
+{
+  "timestamp": "2026-07-31T13:32:00.681946",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Created trace for query: whats production enviromment...",
+  "module": "langfuse",
+  "function": "create_trace",
+  "line": 50
+}
+{
+  "timestamp": "2026-07-31T13:32:00.747502",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Logged retrieval span with 5 chunks",
+  "module": "langfuse",
+  "function": "log_retrieval",
+  "line": 89
+}
+{
+  "timestamp": "2026-07-31T13:36:22.194015",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing enabled (session: 5808e1c9-01c2-4c14-9861-669ea4e8414e)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 27
+}
+{
+  "timestamp": "2026-07-31T13:36:22.501865",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing enabled (session: 0e6c9c74-ad2f-4b4b-9bec-e6871d589c62)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 27
+}
+{
+  "timestamp": "2026-07-31T13:37:14.061201",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Created trace for query: whats production enviromnet...",
+  "module": "langfuse",
+  "function": "create_trace",
+  "line": 50
+}
+{
+  "timestamp": "2026-07-31T13:37:14.152998",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Logged retrieval span with 5 chunks",
+  "module": "langfuse",
+  "function": "log_retrieval",
+  "line": 89
+}
+{
+  "timestamp": "2026-07-31T13:40:57.712784",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing enabled (session: 6069ec4d-a306-41a7-b4f8-7e3918890cab)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 27
+}
+{
+  "timestamp": "2026-07-31T13:40:58.104495",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing enabled (session: 78e9e2a7-be70-4d42-aac0-a4f6f3685e4c)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 27
+}
+{
+  "timestamp": "2026-07-31T13:40:58.112904",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Langfuse tracing enabled (session: 0411f73b-1906-489a-ac59-5476618fcaba)",
+  "module": "langfuse",
+  "function": "__init__",
+  "line": 27
+}
+{
+  "timestamp": "2026-07-31T13:42:09.788611",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Created trace for query: whats is production environment...",
+  "module": "langfuse",
+  "function": "create_trace",
+  "line": 50
+}
+{
+  "timestamp": "2026-07-31T13:42:09.877127",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Logged retrieval span with 5 chunks",
+  "module": "langfuse",
+  "function": "log_retrieval",
+  "line": 89
+}
+{
+  "timestamp": "2026-07-31T13:42:10.464268",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Logged generation span: 755+95 tokens, 0.67s",
+  "module": "langfuse",
+  "function": "log_generation",
+  "line": 121
+}
+{
+  "timestamp": "2026-07-31T13:42:12.266314",
+  "level": "INFO",
+  "logger": "langfuse_tracer",
+  "message": "Trace ended and flushed",
+  "module": "langfuse",
+  "function": "end_trace",
+  "line": 140
+}

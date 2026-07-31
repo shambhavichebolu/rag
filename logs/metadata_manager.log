@@ -1,0 +1,3933 @@
+{
+  "timestamp": "2026-07-30T15:10:10.192696",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: faq",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "faq",
+  "metadata": {
+    "source": "data\\Company\\faq.md",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "faq",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T15:10:10.194799",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: holidays",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "holidays",
+  "metadata": {
+    "source": "data\\Company\\holidays.csv",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "holidays",
+    "document_type": "Spreadsheet",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T15:10:10.195383",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: api_reference",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "api_reference",
+  "metadata": {
+    "source": "data\\Engineering\\api_reference.json",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "api_reference",
+    "document_type": "Data",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T15:10:10.195383",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: deployment_guide",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "deployment_guide",
+  "metadata": {
+    "source": "data\\Engineering\\deployment_guide.md",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "deployment_guide",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T15:10:10.195383",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: employee_handbook",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "employee_handbook",
+  "metadata": {
+    "source": "data\\HR\\employee_handbook.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "employee_handbook",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T15:10:10.196381",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: leave_policy",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "leave_policy",
+  "metadata": {
+    "source": "data\\HR\\leave_policy.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "leave_policy",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T15:10:10.196381",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: laptop_troubleshooting",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "laptop_troubleshooting",
+  "metadata": {
+    "source": "data\\IT\\laptop_troubleshooting.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "laptop_troubleshooting",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T15:10:10.196381",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: printer_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "printer_setup",
+  "metadata": {
+    "source": "data\\IT\\printer_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "printer_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T15:10:10.196381",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: vpn_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "vpn_setup",
+  "metadata": {
+    "source": "data\\IT\\vpn_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "vpn_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:00:18.686676",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: faq",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "faq",
+  "metadata": {
+    "source": "data\\Company\\faq.md",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "faq",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:00:18.687181",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: holidays",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "holidays",
+  "metadata": {
+    "source": "data\\Company\\holidays.csv",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "holidays",
+    "document_type": "Spreadsheet",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:00:18.687181",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: api_reference",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "api_reference",
+  "metadata": {
+    "source": "data\\Engineering\\api_reference.json",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "api_reference",
+    "document_type": "Data",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:00:18.687181",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: deployment_guide",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "deployment_guide",
+  "metadata": {
+    "source": "data\\Engineering\\deployment_guide.md",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "deployment_guide",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:00:18.688187",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: employee_handbook",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "employee_handbook",
+  "metadata": {
+    "source": "data\\HR\\employee_handbook.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "employee_handbook",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:00:18.688187",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: leave_policy",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "leave_policy",
+  "metadata": {
+    "source": "data\\HR\\leave_policy.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "leave_policy",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:00:18.688187",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: laptop_troubleshooting",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "laptop_troubleshooting",
+  "metadata": {
+    "source": "data\\IT\\laptop_troubleshooting.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "laptop_troubleshooting",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:00:18.688187",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: printer_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "printer_setup",
+  "metadata": {
+    "source": "data\\IT\\printer_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "printer_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:00:18.689193",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: vpn_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "vpn_setup",
+  "metadata": {
+    "source": "data\\IT\\vpn_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "vpn_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:05:13.604449",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: faq",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "faq",
+  "metadata": {
+    "source": "data\\Company\\faq.md",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "faq",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:05:13.604449",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: holidays",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "holidays",
+  "metadata": {
+    "source": "data\\Company\\holidays.csv",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "holidays",
+    "document_type": "Spreadsheet",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:05:13.604954",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: api_reference",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "api_reference",
+  "metadata": {
+    "source": "data\\Engineering\\api_reference.json",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "api_reference",
+    "document_type": "Data",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:05:13.604954",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: deployment_guide",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "deployment_guide",
+  "metadata": {
+    "source": "data\\Engineering\\deployment_guide.md",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "deployment_guide",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:05:13.604954",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: employee_handbook",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "employee_handbook",
+  "metadata": {
+    "source": "data\\HR\\employee_handbook.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "employee_handbook",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:05:13.604954",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: leave_policy",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "leave_policy",
+  "metadata": {
+    "source": "data\\HR\\leave_policy.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "leave_policy",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:05:13.604954",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: laptop_troubleshooting",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "laptop_troubleshooting",
+  "metadata": {
+    "source": "data\\IT\\laptop_troubleshooting.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "laptop_troubleshooting",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:05:13.605960",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: printer_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "printer_setup",
+  "metadata": {
+    "source": "data\\IT\\printer_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "printer_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:05:13.605960",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: vpn_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "vpn_setup",
+  "metadata": {
+    "source": "data\\IT\\vpn_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "vpn_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:07:32.118725",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: faq",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "faq",
+  "metadata": {
+    "source": "data\\Company\\faq.md",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "faq",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:07:32.119229",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: holidays",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "holidays",
+  "metadata": {
+    "source": "data\\Company\\holidays.csv",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "holidays",
+    "document_type": "Spreadsheet",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:07:32.119229",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: api_reference",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "api_reference",
+  "metadata": {
+    "source": "data\\Engineering\\api_reference.json",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "api_reference",
+    "document_type": "Data",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:07:32.119229",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: deployment_guide",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "deployment_guide",
+  "metadata": {
+    "source": "data\\Engineering\\deployment_guide.md",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "deployment_guide",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:07:32.119229",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: employee_handbook",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "employee_handbook",
+  "metadata": {
+    "source": "data\\HR\\employee_handbook.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "employee_handbook",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:07:32.119229",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: leave_policy",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "leave_policy",
+  "metadata": {
+    "source": "data\\HR\\leave_policy.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "leave_policy",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:07:32.120364",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: laptop_troubleshooting",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "laptop_troubleshooting",
+  "metadata": {
+    "source": "data\\IT\\laptop_troubleshooting.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "laptop_troubleshooting",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:07:32.120364",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: printer_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "printer_setup",
+  "metadata": {
+    "source": "data\\IT\\printer_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "printer_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:07:32.120364",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: vpn_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "vpn_setup",
+  "metadata": {
+    "source": "data\\IT\\vpn_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "vpn_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:12:40.300260",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: faq",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "faq",
+  "metadata": {
+    "source": "data\\Company\\faq.md",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "faq",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:12:40.300770",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: holidays",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "holidays",
+  "metadata": {
+    "source": "data\\Company\\holidays.csv",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "holidays",
+    "document_type": "Spreadsheet",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:12:40.300770",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: api_reference",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "api_reference",
+  "metadata": {
+    "source": "data\\Engineering\\api_reference.json",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "api_reference",
+    "document_type": "Data",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:12:40.301779",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: deployment_guide",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "deployment_guide",
+  "metadata": {
+    "source": "data\\Engineering\\deployment_guide.md",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "deployment_guide",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:12:40.301779",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: employee_handbook",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "employee_handbook",
+  "metadata": {
+    "source": "data\\HR\\employee_handbook.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "employee_handbook",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:12:40.302779",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: leave_policy",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "leave_policy",
+  "metadata": {
+    "source": "data\\HR\\leave_policy.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "leave_policy",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:12:40.302779",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: laptop_troubleshooting",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "laptop_troubleshooting",
+  "metadata": {
+    "source": "data\\IT\\laptop_troubleshooting.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "laptop_troubleshooting",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:12:40.302779",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: printer_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "printer_setup",
+  "metadata": {
+    "source": "data\\IT\\printer_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "printer_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:12:40.304288",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: vpn_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "vpn_setup",
+  "metadata": {
+    "source": "data\\IT\\vpn_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "vpn_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:28:14.066358",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: faq",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "faq",
+  "metadata": {
+    "source": "data\\Company\\faq.md",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "faq",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:28:14.066867",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: holidays",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "holidays",
+  "metadata": {
+    "source": "data\\Company\\holidays.csv",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "holidays",
+    "document_type": "Spreadsheet",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:28:14.066867",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: api_reference",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "api_reference",
+  "metadata": {
+    "source": "data\\Engineering\\api_reference.json",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "api_reference",
+    "document_type": "Data",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:28:14.068541",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: deployment_guide",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "deployment_guide",
+  "metadata": {
+    "source": "data\\Engineering\\deployment_guide.md",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "deployment_guide",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:28:14.068541",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: employee_handbook",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "employee_handbook",
+  "metadata": {
+    "source": "data\\HR\\employee_handbook.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "employee_handbook",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:28:14.068541",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: leave_policy",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "leave_policy",
+  "metadata": {
+    "source": "data\\HR\\leave_policy.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "leave_policy",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:28:14.068541",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: laptop_troubleshooting",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "laptop_troubleshooting",
+  "metadata": {
+    "source": "data\\IT\\laptop_troubleshooting.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "laptop_troubleshooting",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:28:14.068541",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: printer_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "printer_setup",
+  "metadata": {
+    "source": "data\\IT\\printer_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "printer_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:28:14.068541",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: vpn_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "vpn_setup",
+  "metadata": {
+    "source": "data\\IT\\vpn_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "vpn_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:31:48.589493",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: faq",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "faq",
+  "metadata": {
+    "source": "data\\Company\\faq.md",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "faq",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:31:48.589493",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: holidays",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "holidays",
+  "metadata": {
+    "source": "data\\Company\\holidays.csv",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "holidays",
+    "document_type": "Spreadsheet",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:31:48.589493",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: api_reference",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "api_reference",
+  "metadata": {
+    "source": "data\\Engineering\\api_reference.json",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "api_reference",
+    "document_type": "Data",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:31:48.589493",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: deployment_guide",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "deployment_guide",
+  "metadata": {
+    "source": "data\\Engineering\\deployment_guide.md",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "deployment_guide",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:31:48.589493",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: employee_handbook",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "employee_handbook",
+  "metadata": {
+    "source": "data\\HR\\employee_handbook.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "employee_handbook",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:31:48.589493",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: leave_policy",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "leave_policy",
+  "metadata": {
+    "source": "data\\HR\\leave_policy.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "leave_policy",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:31:48.589493",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: laptop_troubleshooting",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "laptop_troubleshooting",
+  "metadata": {
+    "source": "data\\IT\\laptop_troubleshooting.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "laptop_troubleshooting",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:31:48.599855",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: printer_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "printer_setup",
+  "metadata": {
+    "source": "data\\IT\\printer_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "printer_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:31:48.599855",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: vpn_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "vpn_setup",
+  "metadata": {
+    "source": "data\\IT\\vpn_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "vpn_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:34:19.769224",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: faq",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "faq",
+  "metadata": {
+    "source": "data\\Company\\faq.md",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "faq",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:34:19.773014",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: holidays",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "holidays",
+  "metadata": {
+    "source": "data\\Company\\holidays.csv",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "holidays",
+    "document_type": "Spreadsheet",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:34:19.773942",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: api_reference",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "api_reference",
+  "metadata": {
+    "source": "data\\Engineering\\api_reference.json",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "api_reference",
+    "document_type": "Data",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:34:19.777049",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: deployment_guide",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "deployment_guide",
+  "metadata": {
+    "source": "data\\Engineering\\deployment_guide.md",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "deployment_guide",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:34:19.778269",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: employee_handbook",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "employee_handbook",
+  "metadata": {
+    "source": "data\\HR\\employee_handbook.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "employee_handbook",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:34:19.778787",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: leave_policy",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "leave_policy",
+  "metadata": {
+    "source": "data\\HR\\leave_policy.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "leave_policy",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:34:19.778787",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: laptop_troubleshooting",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "laptop_troubleshooting",
+  "metadata": {
+    "source": "data\\IT\\laptop_troubleshooting.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "laptop_troubleshooting",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:34:19.778787",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: printer_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "printer_setup",
+  "metadata": {
+    "source": "data\\IT\\printer_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "printer_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:34:19.782329",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: vpn_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "vpn_setup",
+  "metadata": {
+    "source": "data\\IT\\vpn_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "vpn_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:42:58.797079",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: faq",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "faq",
+  "metadata": {
+    "source": "data\\Company\\faq.md",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "faq",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:42:58.797079",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: holidays",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "holidays",
+  "metadata": {
+    "source": "data\\Company\\holidays.csv",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "holidays",
+    "document_type": "Spreadsheet",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:42:58.797079",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: api_reference",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "api_reference",
+  "metadata": {
+    "source": "data\\Engineering\\api_reference.json",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "api_reference",
+    "document_type": "Data",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:42:58.797079",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: deployment_guide",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "deployment_guide",
+  "metadata": {
+    "source": "data\\Engineering\\deployment_guide.md",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "deployment_guide",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:42:58.799308",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: employee_handbook",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "employee_handbook",
+  "metadata": {
+    "source": "data\\HR\\employee_handbook.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "employee_handbook",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:42:58.800398",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: leave_policy",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "leave_policy",
+  "metadata": {
+    "source": "data\\HR\\leave_policy.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "leave_policy",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:42:58.800398",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: laptop_troubleshooting",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "laptop_troubleshooting",
+  "metadata": {
+    "source": "data\\IT\\laptop_troubleshooting.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "laptop_troubleshooting",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:42:58.801748",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: printer_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "printer_setup",
+  "metadata": {
+    "source": "data\\IT\\printer_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "printer_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:42:58.801748",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: vpn_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "vpn_setup",
+  "metadata": {
+    "source": "data\\IT\\vpn_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "vpn_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:44:38.749229",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: faq",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "faq",
+  "metadata": {
+    "source": "data\\Company\\faq.md",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "faq",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:44:38.750370",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: holidays",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "holidays",
+  "metadata": {
+    "source": "data\\Company\\holidays.csv",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "holidays",
+    "document_type": "Spreadsheet",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:44:38.750370",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: api_reference",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "api_reference",
+  "metadata": {
+    "source": "data\\Engineering\\api_reference.json",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "api_reference",
+    "document_type": "Data",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:44:38.750370",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: deployment_guide",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "deployment_guide",
+  "metadata": {
+    "source": "data\\Engineering\\deployment_guide.md",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "deployment_guide",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:44:38.750370",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: employee_handbook",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "employee_handbook",
+  "metadata": {
+    "source": "data\\HR\\employee_handbook.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "employee_handbook",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:44:38.750370",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: leave_policy",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "leave_policy",
+  "metadata": {
+    "source": "data\\HR\\leave_policy.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "leave_policy",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:44:38.755701",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: laptop_troubleshooting",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "laptop_troubleshooting",
+  "metadata": {
+    "source": "data\\IT\\laptop_troubleshooting.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "laptop_troubleshooting",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:44:38.756126",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: printer_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "printer_setup",
+  "metadata": {
+    "source": "data\\IT\\printer_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "printer_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:44:38.757148",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: vpn_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "vpn_setup",
+  "metadata": {
+    "source": "data\\IT\\vpn_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "vpn_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:48:04.339038",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: faq",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "faq",
+  "metadata": {
+    "source": "data\\Company\\faq.md",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "faq",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:48:04.339882",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: holidays",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "holidays",
+  "metadata": {
+    "source": "data\\Company\\holidays.csv",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "holidays",
+    "document_type": "Spreadsheet",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:48:04.339882",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: api_reference",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "api_reference",
+  "metadata": {
+    "source": "data\\Engineering\\api_reference.json",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "api_reference",
+    "document_type": "Data",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:48:04.339882",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: deployment_guide",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "deployment_guide",
+  "metadata": {
+    "source": "data\\Engineering\\deployment_guide.md",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "deployment_guide",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:48:04.339882",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: employee_handbook",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "employee_handbook",
+  "metadata": {
+    "source": "data\\HR\\employee_handbook.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "employee_handbook",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:48:04.339882",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: leave_policy",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "leave_policy",
+  "metadata": {
+    "source": "data\\HR\\leave_policy.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "leave_policy",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:48:04.339882",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: laptop_troubleshooting",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "laptop_troubleshooting",
+  "metadata": {
+    "source": "data\\IT\\laptop_troubleshooting.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "laptop_troubleshooting",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:48:04.343928",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: printer_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "printer_setup",
+  "metadata": {
+    "source": "data\\IT\\printer_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "printer_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:48:04.346898",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: vpn_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "vpn_setup",
+  "metadata": {
+    "source": "data\\IT\\vpn_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "vpn_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:53:18.004490",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: faq",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "faq",
+  "metadata": {
+    "source": "data\\Company\\faq.md",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "faq",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:53:18.004490",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: holidays",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "holidays",
+  "metadata": {
+    "source": "data\\Company\\holidays.csv",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "holidays",
+    "document_type": "Spreadsheet",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:53:18.004490",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: api_reference",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "api_reference",
+  "metadata": {
+    "source": "data\\Engineering\\api_reference.json",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "api_reference",
+    "document_type": "Data",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:53:18.007086",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: deployment_guide",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "deployment_guide",
+  "metadata": {
+    "source": "data\\Engineering\\deployment_guide.md",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "deployment_guide",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:53:18.007086",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: employee_handbook",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "employee_handbook",
+  "metadata": {
+    "source": "data\\HR\\employee_handbook.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "employee_handbook",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:53:18.008707",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: leave_policy",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "leave_policy",
+  "metadata": {
+    "source": "data\\HR\\leave_policy.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "leave_policy",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:53:18.010096",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: laptop_troubleshooting",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "laptop_troubleshooting",
+  "metadata": {
+    "source": "data\\IT\\laptop_troubleshooting.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "laptop_troubleshooting",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:53:18.012808",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: printer_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "printer_setup",
+  "metadata": {
+    "source": "data\\IT\\printer_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "printer_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:53:18.019586",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: vpn_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "vpn_setup",
+  "metadata": {
+    "source": "data\\IT\\vpn_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "vpn_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:56:00.268766",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: faq",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "faq",
+  "metadata": {
+    "source": "data\\Company\\faq.md",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "faq",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:56:00.279445",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: holidays",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "holidays",
+  "metadata": {
+    "source": "data\\Company\\holidays.csv",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "holidays",
+    "document_type": "Spreadsheet",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:56:00.280225",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: api_reference",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "api_reference",
+  "metadata": {
+    "source": "data\\Engineering\\api_reference.json",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "api_reference",
+    "document_type": "Data",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:56:00.280225",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: deployment_guide",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "deployment_guide",
+  "metadata": {
+    "source": "data\\Engineering\\deployment_guide.md",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "deployment_guide",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:56:00.280225",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: employee_handbook",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "employee_handbook",
+  "metadata": {
+    "source": "data\\HR\\employee_handbook.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "employee_handbook",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:56:00.280225",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: leave_policy",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "leave_policy",
+  "metadata": {
+    "source": "data\\HR\\leave_policy.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "leave_policy",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:56:00.282318",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: laptop_troubleshooting",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "laptop_troubleshooting",
+  "metadata": {
+    "source": "data\\IT\\laptop_troubleshooting.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "laptop_troubleshooting",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:56:00.282318",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: printer_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "printer_setup",
+  "metadata": {
+    "source": "data\\IT\\printer_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "printer_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-30T16:56:00.284502",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: vpn_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "vpn_setup",
+  "metadata": {
+    "source": "data\\IT\\vpn_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "vpn_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T11:15:32.564692",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: faq",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "faq",
+  "metadata": {
+    "source": "data\\Company\\faq.md",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "faq",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T11:15:32.566202",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: holidays",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "holidays",
+  "metadata": {
+    "source": "data\\Company\\holidays.csv",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "holidays",
+    "document_type": "Spreadsheet",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T11:15:32.568224",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: api_reference",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "api_reference",
+  "metadata": {
+    "source": "data\\Engineering\\api_reference.json",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "api_reference",
+    "document_type": "Data",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T11:15:32.569325",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: deployment_guide",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "deployment_guide",
+  "metadata": {
+    "source": "data\\Engineering\\deployment_guide.md",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "deployment_guide",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T11:15:32.570822",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: employee_handbook",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "employee_handbook",
+  "metadata": {
+    "source": "data\\HR\\employee_handbook.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "employee_handbook",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T11:15:32.570822",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: leave_policy",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "leave_policy",
+  "metadata": {
+    "source": "data\\HR\\leave_policy.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "leave_policy",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T11:15:32.574574",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: laptop_troubleshooting",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "laptop_troubleshooting",
+  "metadata": {
+    "source": "data\\IT\\laptop_troubleshooting.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "laptop_troubleshooting",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T11:15:32.577467",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: printer_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "printer_setup",
+  "metadata": {
+    "source": "data\\IT\\printer_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "printer_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T11:15:32.578087",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: vpn_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "vpn_setup",
+  "metadata": {
+    "source": "data\\IT\\vpn_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "vpn_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T11:33:31.477630",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: faq",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "faq",
+  "metadata": {
+    "source": "data\\Company\\faq.md",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "faq",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T11:33:31.480625",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: holidays",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "holidays",
+  "metadata": {
+    "source": "data\\Company\\holidays.csv",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "holidays",
+    "document_type": "Spreadsheet",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T11:33:31.481141",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: api_reference",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "api_reference",
+  "metadata": {
+    "source": "data\\Engineering\\api_reference.json",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "api_reference",
+    "document_type": "Data",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T11:33:31.482160",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: deployment_guide",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "deployment_guide",
+  "metadata": {
+    "source": "data\\Engineering\\deployment_guide.md",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "deployment_guide",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T11:33:31.483964",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: employee_handbook",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "employee_handbook",
+  "metadata": {
+    "source": "data\\HR\\employee_handbook.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "employee_handbook",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T11:33:31.485155",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: leave_policy",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "leave_policy",
+  "metadata": {
+    "source": "data\\HR\\leave_policy.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "leave_policy",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T11:33:31.487361",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: laptop_troubleshooting",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "laptop_troubleshooting",
+  "metadata": {
+    "source": "data\\IT\\laptop_troubleshooting.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "laptop_troubleshooting",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T11:33:31.489357",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: printer_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "printer_setup",
+  "metadata": {
+    "source": "data\\IT\\printer_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "printer_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T11:33:31.491290",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: vpn_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "vpn_setup",
+  "metadata": {
+    "source": "data\\IT\\vpn_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "vpn_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T12:01:31.123746",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: faq",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "faq",
+  "metadata": {
+    "source": "data\\Company\\faq.md",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "faq",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T12:01:31.123746",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: holidays",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "holidays",
+  "metadata": {
+    "source": "data\\Company\\holidays.csv",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "holidays",
+    "document_type": "Spreadsheet",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T12:01:31.123746",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: api_reference",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "api_reference",
+  "metadata": {
+    "source": "data\\Engineering\\api_reference.json",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "api_reference",
+    "document_type": "Data",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T12:01:31.126429",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: deployment_guide",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "deployment_guide",
+  "metadata": {
+    "source": "data\\Engineering\\deployment_guide.md",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "deployment_guide",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T12:01:31.126429",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: employee_handbook",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "employee_handbook",
+  "metadata": {
+    "source": "data\\HR\\employee_handbook.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "employee_handbook",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T12:01:31.127885",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: leave_policy",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "leave_policy",
+  "metadata": {
+    "source": "data\\HR\\leave_policy.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "leave_policy",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T12:01:31.128790",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: laptop_troubleshooting",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "laptop_troubleshooting",
+  "metadata": {
+    "source": "data\\IT\\laptop_troubleshooting.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "laptop_troubleshooting",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T12:01:31.130230",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: printer_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "printer_setup",
+  "metadata": {
+    "source": "data\\IT\\printer_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "printer_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T12:01:31.131991",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: vpn_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "vpn_setup",
+  "metadata": {
+    "source": "data\\IT\\vpn_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "vpn_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T12:29:50.872168",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: faq",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "faq",
+  "metadata": {
+    "source": "data\\Company\\faq.md",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "faq",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T12:29:50.877019",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: holidays",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "holidays",
+  "metadata": {
+    "source": "data\\Company\\holidays.csv",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "holidays",
+    "document_type": "Spreadsheet",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T12:29:50.877019",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: api_reference",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "api_reference",
+  "metadata": {
+    "source": "data\\Engineering\\api_reference.json",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "api_reference",
+    "document_type": "Data",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T12:29:50.879098",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: deployment_guide",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "deployment_guide",
+  "metadata": {
+    "source": "data\\Engineering\\deployment_guide.md",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "deployment_guide",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T12:29:50.880842",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: employee_handbook",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "employee_handbook",
+  "metadata": {
+    "source": "data\\HR\\employee_handbook.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "employee_handbook",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T12:29:50.881175",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: leave_policy",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "leave_policy",
+  "metadata": {
+    "source": "data\\HR\\leave_policy.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "leave_policy",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T12:29:50.882195",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: laptop_troubleshooting",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "laptop_troubleshooting",
+  "metadata": {
+    "source": "data\\IT\\laptop_troubleshooting.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "laptop_troubleshooting",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T12:29:50.882195",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: printer_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "printer_setup",
+  "metadata": {
+    "source": "data\\IT\\printer_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "printer_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T12:29:50.883890",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: vpn_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "vpn_setup",
+  "metadata": {
+    "source": "data\\IT\\vpn_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "vpn_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:02:08.972737",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: faq",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "faq",
+  "metadata": {
+    "source": "data\\Company\\faq.md",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "faq",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:02:08.972737",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: holidays",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "holidays",
+  "metadata": {
+    "source": "data\\Company\\holidays.csv",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "holidays",
+    "document_type": "Spreadsheet",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:02:08.973747",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: api_reference",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "api_reference",
+  "metadata": {
+    "source": "data\\Engineering\\api_reference.json",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "api_reference",
+    "document_type": "Data",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:02:08.973747",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: deployment_guide",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "deployment_guide",
+  "metadata": {
+    "source": "data\\Engineering\\deployment_guide.md",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "deployment_guide",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:02:08.975178",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: employee_handbook",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "employee_handbook",
+  "metadata": {
+    "source": "data\\HR\\employee_handbook.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "employee_handbook",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:02:08.976727",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: leave_policy",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "leave_policy",
+  "metadata": {
+    "source": "data\\HR\\leave_policy.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "leave_policy",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:02:08.979764",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: laptop_troubleshooting",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "laptop_troubleshooting",
+  "metadata": {
+    "source": "data\\IT\\laptop_troubleshooting.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "laptop_troubleshooting",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:02:08.980969",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: printer_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "printer_setup",
+  "metadata": {
+    "source": "data\\IT\\printer_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "printer_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:02:08.982115",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: vpn_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "vpn_setup",
+  "metadata": {
+    "source": "data\\IT\\vpn_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "vpn_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:08:55.414390",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: faq",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "faq",
+  "metadata": {
+    "source": "data\\Company\\faq.md",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "faq",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:08:55.418334",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: holidays",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "holidays",
+  "metadata": {
+    "source": "data\\Company\\holidays.csv",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "holidays",
+    "document_type": "Spreadsheet",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:08:55.419579",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: api_reference",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "api_reference",
+  "metadata": {
+    "source": "data\\Engineering\\api_reference.json",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "api_reference",
+    "document_type": "Data",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:08:55.420604",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: deployment_guide",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "deployment_guide",
+  "metadata": {
+    "source": "data\\Engineering\\deployment_guide.md",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "deployment_guide",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:08:55.420604",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: employee_handbook",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "employee_handbook",
+  "metadata": {
+    "source": "data\\HR\\employee_handbook.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "employee_handbook",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:08:55.425680",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: leave_policy",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "leave_policy",
+  "metadata": {
+    "source": "data\\HR\\leave_policy.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "leave_policy",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:08:55.427484",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: laptop_troubleshooting",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "laptop_troubleshooting",
+  "metadata": {
+    "source": "data\\IT\\laptop_troubleshooting.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "laptop_troubleshooting",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:08:55.428005",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: printer_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "printer_setup",
+  "metadata": {
+    "source": "data\\IT\\printer_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "printer_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:08:55.428005",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: vpn_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "vpn_setup",
+  "metadata": {
+    "source": "data\\IT\\vpn_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "vpn_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:18:13.482103",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: faq",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "faq",
+  "metadata": {
+    "source": "data\\Company\\faq.md",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "faq",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:18:13.483300",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: holidays",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "holidays",
+  "metadata": {
+    "source": "data\\Company\\holidays.csv",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "holidays",
+    "document_type": "Spreadsheet",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:18:13.485407",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: api_reference",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "api_reference",
+  "metadata": {
+    "source": "data\\Engineering\\api_reference.json",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "api_reference",
+    "document_type": "Data",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:18:13.485407",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: deployment_guide",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "deployment_guide",
+  "metadata": {
+    "source": "data\\Engineering\\deployment_guide.md",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "deployment_guide",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:18:13.486701",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: employee_handbook",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "employee_handbook",
+  "metadata": {
+    "source": "data\\HR\\employee_handbook.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "employee_handbook",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:18:13.487352",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: leave_policy",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "leave_policy",
+  "metadata": {
+    "source": "data\\HR\\leave_policy.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "leave_policy",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:18:13.487352",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: laptop_troubleshooting",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "laptop_troubleshooting",
+  "metadata": {
+    "source": "data\\IT\\laptop_troubleshooting.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "laptop_troubleshooting",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:18:13.489889",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: printer_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "printer_setup",
+  "metadata": {
+    "source": "data\\IT\\printer_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "printer_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:18:13.490655",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: vpn_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "vpn_setup",
+  "metadata": {
+    "source": "data\\IT\\vpn_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "vpn_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:31:36.004050",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: faq",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "faq",
+  "metadata": {
+    "source": "data\\Company\\faq.md",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "faq",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:31:36.005313",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: holidays",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "holidays",
+  "metadata": {
+    "source": "data\\Company\\holidays.csv",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "holidays",
+    "document_type": "Spreadsheet",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:31:36.006082",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: api_reference",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "api_reference",
+  "metadata": {
+    "source": "data\\Engineering\\api_reference.json",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "api_reference",
+    "document_type": "Data",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:31:36.007590",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: deployment_guide",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "deployment_guide",
+  "metadata": {
+    "source": "data\\Engineering\\deployment_guide.md",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "deployment_guide",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:31:36.008713",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: employee_handbook",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "employee_handbook",
+  "metadata": {
+    "source": "data\\HR\\employee_handbook.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "employee_handbook",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:31:36.012058",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: leave_policy",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "leave_policy",
+  "metadata": {
+    "source": "data\\HR\\leave_policy.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "leave_policy",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:31:36.013856",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: laptop_troubleshooting",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "laptop_troubleshooting",
+  "metadata": {
+    "source": "data\\IT\\laptop_troubleshooting.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "laptop_troubleshooting",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:31:36.014874",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: printer_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "printer_setup",
+  "metadata": {
+    "source": "data\\IT\\printer_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "printer_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:31:36.014874",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: vpn_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "vpn_setup",
+  "metadata": {
+    "source": "data\\IT\\vpn_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "vpn_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:36:50.948070",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: faq",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "faq",
+  "metadata": {
+    "source": "data\\Company\\faq.md",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "faq",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:36:50.949026",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: holidays",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "holidays",
+  "metadata": {
+    "source": "data\\Company\\holidays.csv",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "holidays",
+    "document_type": "Spreadsheet",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:36:50.951787",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: api_reference",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "api_reference",
+  "metadata": {
+    "source": "data\\Engineering\\api_reference.json",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "api_reference",
+    "document_type": "Data",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:36:50.958294",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: deployment_guide",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "deployment_guide",
+  "metadata": {
+    "source": "data\\Engineering\\deployment_guide.md",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "deployment_guide",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:36:50.958294",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: employee_handbook",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "employee_handbook",
+  "metadata": {
+    "source": "data\\HR\\employee_handbook.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "employee_handbook",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:36:50.960538",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: leave_policy",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "leave_policy",
+  "metadata": {
+    "source": "data\\HR\\leave_policy.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "leave_policy",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:36:50.960538",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: laptop_troubleshooting",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "laptop_troubleshooting",
+  "metadata": {
+    "source": "data\\IT\\laptop_troubleshooting.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "laptop_troubleshooting",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:36:50.960538",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: printer_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "printer_setup",
+  "metadata": {
+    "source": "data\\IT\\printer_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "printer_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:36:50.962802",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: vpn_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "vpn_setup",
+  "metadata": {
+    "source": "data\\IT\\vpn_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "vpn_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:41:36.153946",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: faq",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "faq",
+  "metadata": {
+    "source": "data\\Company\\faq.md",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "faq",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:41:36.155025",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: holidays",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "holidays",
+  "metadata": {
+    "source": "data\\Company\\holidays.csv",
+    "page_number": 1,
+    "department": "Company",
+    "document_name": "holidays",
+    "document_type": "Spreadsheet",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:41:36.171039",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: api_reference",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "api_reference",
+  "metadata": {
+    "source": "data\\Engineering\\api_reference.json",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "api_reference",
+    "document_type": "Data",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:41:36.175314",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: deployment_guide",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "deployment_guide",
+  "metadata": {
+    "source": "data\\Engineering\\deployment_guide.md",
+    "page_number": 1,
+    "department": "Engineering",
+    "document_name": "deployment_guide",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:41:36.176529",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: employee_handbook",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "employee_handbook",
+  "metadata": {
+    "source": "data\\HR\\employee_handbook.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "employee_handbook",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:41:36.179078",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: leave_policy",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "leave_policy",
+  "metadata": {
+    "source": "data\\HR\\leave_policy.md",
+    "page_number": 1,
+    "department": "HR",
+    "document_name": "leave_policy",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:41:36.179942",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: laptop_troubleshooting",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "laptop_troubleshooting",
+  "metadata": {
+    "source": "data\\IT\\laptop_troubleshooting.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "laptop_troubleshooting",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:41:36.181380",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: printer_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "printer_setup",
+  "metadata": {
+    "source": "data\\IT\\printer_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "printer_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}
+{
+  "timestamp": "2026-07-31T13:41:36.181380",
+  "level": "INFO",
+  "logger": "metadata_manager",
+  "message": "Document: vpn_setup",
+  "module": "logger",
+  "function": "log_metadata",
+  "line": 79,
+  "document": "vpn_setup",
+  "metadata": {
+    "source": "data\\IT\\vpn_setup.md",
+    "page_number": 1,
+    "department": "IT",
+    "document_name": "vpn_setup",
+    "document_type": "Markdown",
+    "language": "English",
+    "total_pages": 1
+  }
+}

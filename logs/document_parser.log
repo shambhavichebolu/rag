@@ -1,0 +1,2691 @@
+{
+  "timestamp": "2026-07-30T15:10:10.178503",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading faq.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "faq.md",
+  "pages": 1,
+  "characters": 7496,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T15:10:10.178503",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading holidays.csv",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "holidays.csv",
+  "pages": 1,
+  "characters": 3645,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T15:10:10.184476",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading api_reference.json",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "api_reference.json",
+  "pages": 1,
+  "characters": 10640,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T15:10:10.185754",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading deployment_guide.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "deployment_guide.md",
+  "pages": 1,
+  "characters": 9082,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T15:10:10.186945",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading employee_handbook.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "employee_handbook.md",
+  "pages": 1,
+  "characters": 3419,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T15:10:10.188076",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading leave_policy.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "leave_policy.md",
+  "pages": 1,
+  "characters": 4943,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T15:10:10.189040",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading laptop_troubleshooting.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "laptop_troubleshooting.md",
+  "pages": 1,
+  "characters": 7585,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T15:10:10.189040",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading printer_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "printer_setup.md",
+  "pages": 1,
+  "characters": 7417,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T15:10:10.191479",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading vpn_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "vpn_setup.md",
+  "pages": 1,
+  "characters": 5045,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:00:18.682149",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading faq.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "faq.md",
+  "pages": 1,
+  "characters": 7496,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:00:18.683196",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading holidays.csv",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "holidays.csv",
+  "pages": 1,
+  "characters": 3645,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:00:18.683196",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading api_reference.json",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "api_reference.json",
+  "pages": 1,
+  "characters": 10640,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:00:18.684156",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading deployment_guide.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "deployment_guide.md",
+  "pages": 1,
+  "characters": 9082,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:00:18.684669",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading employee_handbook.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "employee_handbook.md",
+  "pages": 1,
+  "characters": 3419,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:00:18.684669",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading leave_policy.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "leave_policy.md",
+  "pages": 1,
+  "characters": 4943,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:00:18.684669",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading laptop_troubleshooting.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "laptop_troubleshooting.md",
+  "pages": 1,
+  "characters": 7585,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:00:18.685690",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading printer_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "printer_setup.md",
+  "pages": 1,
+  "characters": 7417,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:00:18.685690",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading vpn_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "vpn_setup.md",
+  "pages": 1,
+  "characters": 5045,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:05:13.599908",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading faq.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "faq.md",
+  "pages": 1,
+  "characters": 7496,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:05:13.600443",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading holidays.csv",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "holidays.csv",
+  "pages": 1,
+  "characters": 3645,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:05:13.600443",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading api_reference.json",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "api_reference.json",
+  "pages": 1,
+  "characters": 10640,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:05:13.601553",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading deployment_guide.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "deployment_guide.md",
+  "pages": 1,
+  "characters": 9082,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:05:13.601553",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading employee_handbook.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "employee_handbook.md",
+  "pages": 1,
+  "characters": 3419,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:05:13.602450",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading leave_policy.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "leave_policy.md",
+  "pages": 1,
+  "characters": 4943,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:05:13.602450",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading laptop_troubleshooting.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "laptop_troubleshooting.md",
+  "pages": 1,
+  "characters": 7585,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:05:13.602450",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading printer_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "printer_setup.md",
+  "pages": 1,
+  "characters": 7417,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:05:13.603449",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading vpn_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "vpn_setup.md",
+  "pages": 1,
+  "characters": 5045,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:07:32.112842",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading faq.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "faq.md",
+  "pages": 1,
+  "characters": 7496,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:07:32.112842",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading holidays.csv",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "holidays.csv",
+  "pages": 1,
+  "characters": 3645,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:07:32.115110",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading api_reference.json",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "api_reference.json",
+  "pages": 1,
+  "characters": 10640,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:07:32.115110",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading deployment_guide.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "deployment_guide.md",
+  "pages": 1,
+  "characters": 9082,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:07:32.115631",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading employee_handbook.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "employee_handbook.md",
+  "pages": 1,
+  "characters": 3419,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:07:32.115631",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading leave_policy.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "leave_policy.md",
+  "pages": 1,
+  "characters": 4943,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:07:32.116194",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading laptop_troubleshooting.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "laptop_troubleshooting.md",
+  "pages": 1,
+  "characters": 7585,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:07:32.116718",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading printer_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "printer_setup.md",
+  "pages": 1,
+  "characters": 7417,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:07:32.116718",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading vpn_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "vpn_setup.md",
+  "pages": 1,
+  "characters": 5045,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:12:40.291549",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading faq.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "faq.md",
+  "pages": 1,
+  "characters": 7496,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:12:40.292520",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading holidays.csv",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "holidays.csv",
+  "pages": 1,
+  "characters": 3645,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:12:40.294533",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading api_reference.json",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "api_reference.json",
+  "pages": 1,
+  "characters": 10640,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:12:40.295523",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading deployment_guide.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "deployment_guide.md",
+  "pages": 1,
+  "characters": 9082,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:12:40.296033",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading employee_handbook.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "employee_handbook.md",
+  "pages": 1,
+  "characters": 3419,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:12:40.297045",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading leave_policy.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "leave_policy.md",
+  "pages": 1,
+  "characters": 4943,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:12:40.297045",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading laptop_troubleshooting.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "laptop_troubleshooting.md",
+  "pages": 1,
+  "characters": 7585,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:12:40.298556",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading printer_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "printer_setup.md",
+  "pages": 1,
+  "characters": 7417,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:12:40.299248",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading vpn_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "vpn_setup.md",
+  "pages": 1,
+  "characters": 5045,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:28:14.046722",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading faq.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "faq.md",
+  "pages": 1,
+  "characters": 7496,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:28:14.046722",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading holidays.csv",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "holidays.csv",
+  "pages": 1,
+  "characters": 3645,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:28:14.056046",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading api_reference.json",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "api_reference.json",
+  "pages": 1,
+  "characters": 10640,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:28:14.057657",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading deployment_guide.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "deployment_guide.md",
+  "pages": 1,
+  "characters": 9082,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:28:14.059107",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading employee_handbook.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "employee_handbook.md",
+  "pages": 1,
+  "characters": 3419,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:28:14.061284",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading leave_policy.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "leave_policy.md",
+  "pages": 1,
+  "characters": 4943,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:28:14.062297",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading laptop_troubleshooting.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "laptop_troubleshooting.md",
+  "pages": 1,
+  "characters": 7585,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:28:14.062813",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading printer_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "printer_setup.md",
+  "pages": 1,
+  "characters": 7417,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:28:14.062813",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading vpn_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "vpn_setup.md",
+  "pages": 1,
+  "characters": 5045,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:31:48.562159",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading faq.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "faq.md",
+  "pages": 1,
+  "characters": 7496,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:31:48.572080",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading holidays.csv",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "holidays.csv",
+  "pages": 1,
+  "characters": 3645,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:31:48.573600",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading api_reference.json",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "api_reference.json",
+  "pages": 1,
+  "characters": 10640,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:31:48.573600",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading deployment_guide.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "deployment_guide.md",
+  "pages": 1,
+  "characters": 9082,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:31:48.576138",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading employee_handbook.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "employee_handbook.md",
+  "pages": 1,
+  "characters": 3419,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:31:48.578169",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading leave_policy.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "leave_policy.md",
+  "pages": 1,
+  "characters": 4943,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:31:48.582959",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading laptop_troubleshooting.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "laptop_troubleshooting.md",
+  "pages": 1,
+  "characters": 7585,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:31:48.586687",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading printer_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "printer_setup.md",
+  "pages": 1,
+  "characters": 7417,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:31:48.586687",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading vpn_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "vpn_setup.md",
+  "pages": 1,
+  "characters": 5045,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:34:19.721356",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading faq.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "faq.md",
+  "pages": 1,
+  "characters": 7496,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:34:19.724892",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading holidays.csv",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "holidays.csv",
+  "pages": 1,
+  "characters": 3645,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:34:19.744412",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading api_reference.json",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "api_reference.json",
+  "pages": 1,
+  "characters": 10640,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:34:19.745920",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading deployment_guide.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "deployment_guide.md",
+  "pages": 1,
+  "characters": 9082,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:34:19.749459",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading employee_handbook.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "employee_handbook.md",
+  "pages": 1,
+  "characters": 3419,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:34:19.759211",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading leave_policy.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "leave_policy.md",
+  "pages": 1,
+  "characters": 4943,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:34:19.761978",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading laptop_troubleshooting.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "laptop_troubleshooting.md",
+  "pages": 1,
+  "characters": 7585,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:34:19.763040",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading printer_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "printer_setup.md",
+  "pages": 1,
+  "characters": 7417,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:34:19.764289",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading vpn_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "vpn_setup.md",
+  "pages": 1,
+  "characters": 5045,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:42:58.770495",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading faq.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "faq.md",
+  "pages": 1,
+  "characters": 7496,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:42:58.773873",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading holidays.csv",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "holidays.csv",
+  "pages": 1,
+  "characters": 3645,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:42:58.781648",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading api_reference.json",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "api_reference.json",
+  "pages": 1,
+  "characters": 10640,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:42:58.785819",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading deployment_guide.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "deployment_guide.md",
+  "pages": 1,
+  "characters": 9082,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:42:58.787692",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading employee_handbook.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "employee_handbook.md",
+  "pages": 1,
+  "characters": 3419,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:42:58.788255",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading leave_policy.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "leave_policy.md",
+  "pages": 1,
+  "characters": 4943,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:42:58.789418",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading laptop_troubleshooting.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "laptop_troubleshooting.md",
+  "pages": 1,
+  "characters": 7585,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:42:58.791431",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading printer_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "printer_setup.md",
+  "pages": 1,
+  "characters": 7417,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:42:58.794549",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading vpn_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "vpn_setup.md",
+  "pages": 1,
+  "characters": 5045,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:44:38.728591",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading faq.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "faq.md",
+  "pages": 1,
+  "characters": 7496,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:44:38.729684",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading holidays.csv",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "holidays.csv",
+  "pages": 1,
+  "characters": 3645,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:44:38.736119",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading api_reference.json",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "api_reference.json",
+  "pages": 1,
+  "characters": 10640,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:44:38.741313",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading deployment_guide.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "deployment_guide.md",
+  "pages": 1,
+  "characters": 9082,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:44:38.742232",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading employee_handbook.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "employee_handbook.md",
+  "pages": 1,
+  "characters": 3419,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:44:38.744239",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading leave_policy.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "leave_policy.md",
+  "pages": 1,
+  "characters": 4943,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:44:38.744953",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading laptop_troubleshooting.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "laptop_troubleshooting.md",
+  "pages": 1,
+  "characters": 7585,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:44:38.746598",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading printer_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "printer_setup.md",
+  "pages": 1,
+  "characters": 7417,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:44:38.748616",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading vpn_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "vpn_setup.md",
+  "pages": 1,
+  "characters": 5045,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:48:04.308557",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading faq.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "faq.md",
+  "pages": 1,
+  "characters": 7496,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:48:04.310344",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading holidays.csv",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "holidays.csv",
+  "pages": 1,
+  "characters": 3645,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:48:04.318209",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading api_reference.json",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "api_reference.json",
+  "pages": 1,
+  "characters": 10640,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:48:04.320896",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading deployment_guide.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "deployment_guide.md",
+  "pages": 1,
+  "characters": 9082,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:48:04.320896",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading employee_handbook.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "employee_handbook.md",
+  "pages": 1,
+  "characters": 3419,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:48:04.332891",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading leave_policy.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "leave_policy.md",
+  "pages": 1,
+  "characters": 4943,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:48:04.334744",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading laptop_troubleshooting.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "laptop_troubleshooting.md",
+  "pages": 1,
+  "characters": 7585,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:48:04.337629",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading printer_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "printer_setup.md",
+  "pages": 1,
+  "characters": 7417,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:48:04.338138",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading vpn_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "vpn_setup.md",
+  "pages": 1,
+  "characters": 5045,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:53:17.968551",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading faq.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "faq.md",
+  "pages": 1,
+  "characters": 7496,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:53:17.970614",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading holidays.csv",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "holidays.csv",
+  "pages": 1,
+  "characters": 3645,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:53:17.983129",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading api_reference.json",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "api_reference.json",
+  "pages": 1,
+  "characters": 10640,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:53:17.987203",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading deployment_guide.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "deployment_guide.md",
+  "pages": 1,
+  "characters": 9082,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:53:17.988228",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading employee_handbook.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "employee_handbook.md",
+  "pages": 1,
+  "characters": 3419,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:53:17.990387",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading leave_policy.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "leave_policy.md",
+  "pages": 1,
+  "characters": 4943,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:53:18.001329",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading laptop_troubleshooting.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "laptop_troubleshooting.md",
+  "pages": 1,
+  "characters": 7585,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:53:18.001329",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading printer_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "printer_setup.md",
+  "pages": 1,
+  "characters": 7417,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:53:18.003984",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading vpn_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "vpn_setup.md",
+  "pages": 1,
+  "characters": 5045,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:56:00.238324",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading faq.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "faq.md",
+  "pages": 1,
+  "characters": 7496,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:56:00.246113",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading holidays.csv",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "holidays.csv",
+  "pages": 1,
+  "characters": 3645,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:56:00.249628",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading api_reference.json",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "api_reference.json",
+  "pages": 1,
+  "characters": 10640,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:56:00.251446",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading deployment_guide.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "deployment_guide.md",
+  "pages": 1,
+  "characters": 9082,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:56:00.253099",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading employee_handbook.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "employee_handbook.md",
+  "pages": 1,
+  "characters": 3419,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:56:00.260604",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading leave_policy.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "leave_policy.md",
+  "pages": 1,
+  "characters": 4943,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:56:00.262553",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading laptop_troubleshooting.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "laptop_troubleshooting.md",
+  "pages": 1,
+  "characters": 7585,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:56:00.266140",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading printer_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "printer_setup.md",
+  "pages": 1,
+  "characters": 7417,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-30T16:56:00.268071",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading vpn_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "vpn_setup.md",
+  "pages": 1,
+  "characters": 5045,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T11:15:32.536640",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading faq.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "faq.md",
+  "pages": 1,
+  "characters": 7496,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T11:15:32.540296",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading holidays.csv",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "holidays.csv",
+  "pages": 1,
+  "characters": 3645,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T11:15:32.546842",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading api_reference.json",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "api_reference.json",
+  "pages": 1,
+  "characters": 10640,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T11:15:32.549299",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading deployment_guide.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "deployment_guide.md",
+  "pages": 1,
+  "characters": 9082,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T11:15:32.552048",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading employee_handbook.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "employee_handbook.md",
+  "pages": 1,
+  "characters": 3419,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T11:15:32.554123",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading leave_policy.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "leave_policy.md",
+  "pages": 1,
+  "characters": 4943,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T11:15:32.556697",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading laptop_troubleshooting.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "laptop_troubleshooting.md",
+  "pages": 1,
+  "characters": 7585,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T11:15:32.559233",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading printer_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "printer_setup.md",
+  "pages": 1,
+  "characters": 7417,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T11:15:32.563520",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading vpn_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "vpn_setup.md",
+  "pages": 1,
+  "characters": 5045,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T11:33:31.460465",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading faq.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "faq.md",
+  "pages": 1,
+  "characters": 7496,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T11:33:31.460970",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading holidays.csv",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "holidays.csv",
+  "pages": 1,
+  "characters": 3645,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T11:33:31.463120",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading api_reference.json",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "api_reference.json",
+  "pages": 1,
+  "characters": 10640,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T11:33:31.465190",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading deployment_guide.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "deployment_guide.md",
+  "pages": 1,
+  "characters": 9082,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T11:33:31.467628",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading employee_handbook.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "employee_handbook.md",
+  "pages": 1,
+  "characters": 3419,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T11:33:31.471080",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading leave_policy.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "leave_policy.md",
+  "pages": 1,
+  "characters": 4943,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T11:33:31.473622",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading laptop_troubleshooting.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "laptop_troubleshooting.md",
+  "pages": 1,
+  "characters": 7585,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T11:33:31.473622",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading printer_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "printer_setup.md",
+  "pages": 1,
+  "characters": 7417,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T11:33:31.477630",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading vpn_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "vpn_setup.md",
+  "pages": 1,
+  "characters": 5045,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T12:01:31.105671",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading faq.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "faq.md",
+  "pages": 1,
+  "characters": 7496,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T12:01:31.107313",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading holidays.csv",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "holidays.csv",
+  "pages": 1,
+  "characters": 3645,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T12:01:31.109687",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading api_reference.json",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "api_reference.json",
+  "pages": 1,
+  "characters": 10640,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T12:01:31.110765",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading deployment_guide.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "deployment_guide.md",
+  "pages": 1,
+  "characters": 9082,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T12:01:31.113537",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading employee_handbook.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "employee_handbook.md",
+  "pages": 1,
+  "characters": 3419,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T12:01:31.116431",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading leave_policy.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "leave_policy.md",
+  "pages": 1,
+  "characters": 4943,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T12:01:31.119283",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading laptop_troubleshooting.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "laptop_troubleshooting.md",
+  "pages": 1,
+  "characters": 7585,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T12:01:31.119283",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading printer_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "printer_setup.md",
+  "pages": 1,
+  "characters": 7417,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T12:01:31.121300",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading vpn_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "vpn_setup.md",
+  "pages": 1,
+  "characters": 5045,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T12:29:50.838874",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading faq.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "faq.md",
+  "pages": 1,
+  "characters": 7496,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T12:29:50.842265",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading holidays.csv",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "holidays.csv",
+  "pages": 1,
+  "characters": 3645,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T12:29:50.845251",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading api_reference.json",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "api_reference.json",
+  "pages": 1,
+  "characters": 10640,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T12:29:50.848129",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading deployment_guide.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "deployment_guide.md",
+  "pages": 1,
+  "characters": 9082,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T12:29:50.851653",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading employee_handbook.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "employee_handbook.md",
+  "pages": 1,
+  "characters": 3419,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T12:29:50.854683",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading leave_policy.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "leave_policy.md",
+  "pages": 1,
+  "characters": 4943,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T12:29:50.861982",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading laptop_troubleshooting.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "laptop_troubleshooting.md",
+  "pages": 1,
+  "characters": 7585,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T12:29:50.863002",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading printer_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "printer_setup.md",
+  "pages": 1,
+  "characters": 7417,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T12:29:50.866204",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading vpn_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "vpn_setup.md",
+  "pages": 1,
+  "characters": 5045,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:02:08.913513",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading faq.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "faq.md",
+  "pages": 1,
+  "characters": 7496,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:02:08.914192",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading holidays.csv",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "holidays.csv",
+  "pages": 1,
+  "characters": 3645,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:02:08.920238",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading api_reference.json",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "api_reference.json",
+  "pages": 1,
+  "characters": 10640,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:02:08.936053",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading deployment_guide.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "deployment_guide.md",
+  "pages": 1,
+  "characters": 9082,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:02:08.947181",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading employee_handbook.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "employee_handbook.md",
+  "pages": 1,
+  "characters": 3419,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:02:08.964927",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading leave_policy.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "leave_policy.md",
+  "pages": 1,
+  "characters": 4943,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:02:08.969304",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading laptop_troubleshooting.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "laptop_troubleshooting.md",
+  "pages": 1,
+  "characters": 7585,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:02:08.970485",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading printer_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "printer_setup.md",
+  "pages": 1,
+  "characters": 7417,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:02:08.970485",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading vpn_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "vpn_setup.md",
+  "pages": 1,
+  "characters": 5045,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:08:55.380241",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading faq.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "faq.md",
+  "pages": 1,
+  "characters": 7496,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:08:55.382952",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading holidays.csv",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "holidays.csv",
+  "pages": 1,
+  "characters": 3645,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:08:55.393452",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading api_reference.json",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "api_reference.json",
+  "pages": 1,
+  "characters": 10640,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:08:55.396288",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading deployment_guide.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "deployment_guide.md",
+  "pages": 1,
+  "characters": 9082,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:08:55.398336",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading employee_handbook.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "employee_handbook.md",
+  "pages": 1,
+  "characters": 3419,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:08:55.399342",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading leave_policy.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "leave_policy.md",
+  "pages": 1,
+  "characters": 4943,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:08:55.406834",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading laptop_troubleshooting.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "laptop_troubleshooting.md",
+  "pages": 1,
+  "characters": 7585,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:08:55.410561",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading printer_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "printer_setup.md",
+  "pages": 1,
+  "characters": 7417,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:08:55.411312",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading vpn_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "vpn_setup.md",
+  "pages": 1,
+  "characters": 5045,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:18:13.452463",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading faq.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "faq.md",
+  "pages": 1,
+  "characters": 7496,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:18:13.453978",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading holidays.csv",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "holidays.csv",
+  "pages": 1,
+  "characters": 3645,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:18:13.457677",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading api_reference.json",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "api_reference.json",
+  "pages": 1,
+  "characters": 10640,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:18:13.461976",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading deployment_guide.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "deployment_guide.md",
+  "pages": 1,
+  "characters": 9082,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:18:13.464376",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading employee_handbook.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "employee_handbook.md",
+  "pages": 1,
+  "characters": 3419,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:18:13.465248",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading leave_policy.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "leave_policy.md",
+  "pages": 1,
+  "characters": 4943,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:18:13.466283",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading laptop_troubleshooting.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "laptop_troubleshooting.md",
+  "pages": 1,
+  "characters": 7585,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:18:13.470132",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading printer_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "printer_setup.md",
+  "pages": 1,
+  "characters": 7417,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:18:13.477435",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading vpn_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "vpn_setup.md",
+  "pages": 1,
+  "characters": 5045,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:31:35.979198",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading faq.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "faq.md",
+  "pages": 1,
+  "characters": 7496,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:31:35.980292",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading holidays.csv",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "holidays.csv",
+  "pages": 1,
+  "characters": 3645,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:31:35.983809",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading api_reference.json",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "api_reference.json",
+  "pages": 1,
+  "characters": 10640,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:31:35.991534",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading deployment_guide.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "deployment_guide.md",
+  "pages": 1,
+  "characters": 9082,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:31:35.994577",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading employee_handbook.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "employee_handbook.md",
+  "pages": 1,
+  "characters": 3419,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:31:35.995321",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading leave_policy.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "leave_policy.md",
+  "pages": 1,
+  "characters": 4943,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:31:35.999374",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading laptop_troubleshooting.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "laptop_troubleshooting.md",
+  "pages": 1,
+  "characters": 7585,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:31:36.000381",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading printer_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "printer_setup.md",
+  "pages": 1,
+  "characters": 7417,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:31:36.000381",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading vpn_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "vpn_setup.md",
+  "pages": 1,
+  "characters": 5045,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:36:50.906431",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading faq.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "faq.md",
+  "pages": 1,
+  "characters": 7496,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:36:50.910443",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading holidays.csv",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "holidays.csv",
+  "pages": 1,
+  "characters": 3645,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:36:50.914241",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading api_reference.json",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "api_reference.json",
+  "pages": 1,
+  "characters": 10640,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:36:50.927704",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading deployment_guide.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "deployment_guide.md",
+  "pages": 1,
+  "characters": 9082,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:36:50.930299",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading employee_handbook.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "employee_handbook.md",
+  "pages": 1,
+  "characters": 3419,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:36:50.933058",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading leave_policy.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "leave_policy.md",
+  "pages": 1,
+  "characters": 4943,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:36:50.943713",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading laptop_troubleshooting.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "laptop_troubleshooting.md",
+  "pages": 1,
+  "characters": 7585,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:36:50.946043",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading printer_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "printer_setup.md",
+  "pages": 1,
+  "characters": 7417,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:36:50.946043",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading vpn_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "vpn_setup.md",
+  "pages": 1,
+  "characters": 5045,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:41:36.125984",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading faq.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "faq.md",
+  "pages": 1,
+  "characters": 7496,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:41:36.128382",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading holidays.csv",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "holidays.csv",
+  "pages": 1,
+  "characters": 3645,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:41:36.130902",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading api_reference.json",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "api_reference.json",
+  "pages": 1,
+  "characters": 10640,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:41:36.138343",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading deployment_guide.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "deployment_guide.md",
+  "pages": 1,
+  "characters": 9082,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:41:36.141046",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading employee_handbook.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "employee_handbook.md",
+  "pages": 1,
+  "characters": 3419,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:41:36.142425",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading leave_policy.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "leave_policy.md",
+  "pages": 1,
+  "characters": 4943,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:41:36.145962",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading laptop_troubleshooting.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "laptop_troubleshooting.md",
+  "pages": 1,
+  "characters": 7585,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:41:36.151652",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading printer_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "printer_setup.md",
+  "pages": 1,
+  "characters": 7417,
+  "status": "Success"
+}
+{
+  "timestamp": "2026-07-31T13:41:36.152938",
+  "level": "INFO",
+  "logger": "document_parser",
+  "message": "Loading vpn_setup.md",
+  "module": "logger",
+  "function": "log_document_loading",
+  "line": 66,
+  "filename": "vpn_setup.md",
+  "pages": 1,
+  "characters": 5045,
+  "status": "Success"
+}

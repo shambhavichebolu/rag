@@ -1,0 +1,72 @@
+{
+  "timestamp": "2026-07-31T12:31:00.649444",
+  "level": "ERROR",
+  "logger": "ragas_evaluator",
+  "message": "Error during evaluation: The metric [context_precision] that that is used requires the following additional columns ['ground_truth'] to be present in the dataset. Looks like you're trying to use 'context_precision' without ground_truth. Please use consider using  `context_utilization' instead.",
+  "module": "ragas_eval",
+  "function": "evaluate",
+  "line": 80
+}
+{
+  "timestamp": "2026-07-31T12:31:00.651675",
+  "level": "ERROR",
+  "logger": "ragas_evaluator",
+  "message": "Error during evaluation: The metric [context_precision] that that is used requires the following additional columns ['ground_truth'] to be present in the dataset. Looks like you're trying to use 'context_precision' without ground_truth. Please use consider using  `context_utilization' instead.",
+  "module": "ragas_eval",
+  "function": "evaluate",
+  "line": 80
+}
+{
+  "timestamp": "2026-07-31T12:40:10.310614",
+  "level": "ERROR",
+  "logger": "ragas_evaluator",
+  "message": "Error during evaluation: 1 validation error for ChatOpenAI\n__root__\n  Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. (type=value_error)",
+  "module": "ragas_eval",
+  "function": "evaluate",
+  "line": 80
+}
+{
+  "timestamp": "2026-07-31T12:40:10.310614",
+  "level": "ERROR",
+  "logger": "ragas_evaluator",
+  "message": "Error during evaluation: 1 validation error for ChatOpenAI\n__root__\n  Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. (type=value_error)",
+  "module": "ragas_eval",
+  "function": "evaluate",
+  "line": 80
+}
+{
+  "timestamp": "2026-07-31T12:57:32.562076",
+  "level": "INFO",
+  "logger": "ragas_evaluator",
+  "message": "RAGAS configured to use Groq LLM",
+  "module": "ragas_eval",
+  "function": "__init__",
+  "line": 27
+}
+{
+  "timestamp": "2026-07-31T13:03:35.277342",
+  "level": "ERROR",
+  "logger": "ragas_evaluator",
+  "message": "Error during evaluation: 1 validation error for ChatOpenAI\n__root__\n  Did not find openai_api_key, please add an environment variable `OPENAI_API_KEY` which contains it, or pass `openai_api_key` as a named parameter. (type=value_error)",
+  "module": "ragas_eval",
+  "function": "evaluate",
+  "line": 102
+}
+{
+  "timestamp": "2026-07-31T13:08:44.079856",
+  "level": "INFO",
+  "logger": "ragas_evaluator",
+  "message": "RAGAS configured to use Groq LLM",
+  "module": "ragas_eval",
+  "function": "__init__",
+  "line": 27
+}
+{
+  "timestamp": "2026-07-31T13:09:58.519781",
+  "level": "ERROR",
+  "logger": "ragas_evaluator",
+  "message": "Error during evaluation: 'ChatGroq' object has no attribute 'set_run_config'",
+  "module": "ragas_eval",
+  "function": "evaluate",
+  "line": 110
+}

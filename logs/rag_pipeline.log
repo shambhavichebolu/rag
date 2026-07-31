@@ -1,0 +1,610 @@
+{
+  "timestamp": "2026-07-30T15:10:10.177878",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Starting document ingestion from data",
+  "module": "app",
+  "function": "ingest_documents",
+  "line": 49
+}
+{
+  "timestamp": "2026-07-30T15:10:10.178503",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Document Ingestion",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Document Ingestion",
+  "directory": "data"
+}
+{
+  "timestamp": "2026-07-30T15:10:10.191479",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Parsed 9 documents",
+  "module": "app",
+  "function": "ingest_documents",
+  "line": 54
+}
+{
+  "timestamp": "2026-07-30T15:10:10.192696",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Metadata Enrichment",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Metadata Enrichment",
+  "documents": 9
+}
+{
+  "timestamp": "2026-07-30T15:10:10.196381",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Chunking",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Chunking",
+  "documents": 9
+}
+{
+  "timestamp": "2026-07-30T15:10:10.199119",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Created 148 chunks",
+  "module": "app",
+  "function": "ingest_documents",
+  "line": 63
+}
+{
+  "timestamp": "2026-07-30T15:10:10.199794",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Embedding Generation",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Embedding Generation",
+  "chunks": 148
+}
+{
+  "timestamp": "2026-07-30T15:11:11.255143",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Vector Storage",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Vector Storage",
+  "vectors": 148
+}
+{
+  "timestamp": "2026-07-30T15:11:15.086902",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Document ingestion complete",
+  "module": "app",
+  "function": "ingest_documents",
+  "line": 79
+}
+{
+  "timestamp": "2026-07-30T16:00:18.680636",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Starting document ingestion from data",
+  "module": "app",
+  "function": "ingest_documents",
+  "line": 49
+}
+{
+  "timestamp": "2026-07-30T16:00:18.680636",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Document Ingestion",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Document Ingestion",
+  "directory": "data"
+}
+{
+  "timestamp": "2026-07-30T16:00:18.685690",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Parsed 9 documents",
+  "module": "app",
+  "function": "ingest_documents",
+  "line": 54
+}
+{
+  "timestamp": "2026-07-30T16:00:18.685690",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Metadata Enrichment",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Metadata Enrichment",
+  "documents": 9
+}
+{
+  "timestamp": "2026-07-30T16:00:18.689193",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Chunking",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Chunking",
+  "documents": 9
+}
+{
+  "timestamp": "2026-07-30T16:00:18.695198",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Created 148 chunks",
+  "module": "app",
+  "function": "ingest_documents",
+  "line": 63
+}
+{
+  "timestamp": "2026-07-30T16:00:18.695198",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Embedding Generation",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Embedding Generation",
+  "chunks": 148
+}
+{
+  "timestamp": "2026-07-30T16:00:25.619436",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Vector Storage",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Vector Storage",
+  "vectors": 148
+}
+{
+  "timestamp": "2026-07-30T16:00:28.926777",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Document ingestion complete",
+  "module": "app",
+  "function": "ingest_documents",
+  "line": 79
+}
+{
+  "timestamp": "2026-07-30T16:05:13.598728",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Starting document ingestion from data",
+  "module": "app",
+  "function": "ingest_documents",
+  "line": 49
+}
+{
+  "timestamp": "2026-07-30T16:05:13.599291",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Document Ingestion",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Document Ingestion",
+  "directory": "data"
+}
+{
+  "timestamp": "2026-07-30T16:05:13.603449",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Parsed 9 documents",
+  "module": "app",
+  "function": "ingest_documents",
+  "line": 54
+}
+{
+  "timestamp": "2026-07-30T16:05:13.603449",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Metadata Enrichment",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Metadata Enrichment",
+  "documents": 9
+}
+{
+  "timestamp": "2026-07-30T16:05:13.605960",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Chunking",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Chunking",
+  "documents": 9
+}
+{
+  "timestamp": "2026-07-30T16:05:13.608334",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Created 148 chunks",
+  "module": "app",
+  "function": "ingest_documents",
+  "line": 63
+}
+{
+  "timestamp": "2026-07-30T16:05:13.608334",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Embedding Generation",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Embedding Generation",
+  "chunks": 148
+}
+{
+  "timestamp": "2026-07-30T16:05:21.866874",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Vector Storage",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Vector Storage",
+  "vectors": 148
+}
+{
+  "timestamp": "2026-07-30T16:07:32.112308",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Starting document ingestion from data",
+  "module": "app",
+  "function": "ingest_documents",
+  "line": 49
+}
+{
+  "timestamp": "2026-07-30T16:07:32.112842",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Document Ingestion",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Document Ingestion",
+  "directory": "data"
+}
+{
+  "timestamp": "2026-07-30T16:07:32.116718",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Parsed 9 documents",
+  "module": "app",
+  "function": "ingest_documents",
+  "line": 54
+}
+{
+  "timestamp": "2026-07-30T16:07:32.118253",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Metadata Enrichment",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Metadata Enrichment",
+  "documents": 9
+}
+{
+  "timestamp": "2026-07-30T16:07:32.120364",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Chunking",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Chunking",
+  "documents": 9
+}
+{
+  "timestamp": "2026-07-30T16:07:32.121368",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Created 148 chunks",
+  "module": "app",
+  "function": "ingest_documents",
+  "line": 63
+}
+{
+  "timestamp": "2026-07-30T16:07:32.121368",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Embedding Generation",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Embedding Generation",
+  "chunks": 148
+}
+{
+  "timestamp": "2026-07-30T16:07:39.270909",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Vector Storage",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Vector Storage",
+  "vectors": 148
+}
+{
+  "timestamp": "2026-07-30T16:12:40.289542",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Starting document ingestion from data",
+  "module": "app",
+  "function": "ingest_documents",
+  "line": 49
+}
+{
+  "timestamp": "2026-07-30T16:12:40.290559",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Document Ingestion",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Document Ingestion",
+  "directory": "data"
+}
+{
+  "timestamp": "2026-07-30T16:12:40.299248",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Parsed 9 documents",
+  "module": "app",
+  "function": "ingest_documents",
+  "line": 54
+}
+{
+  "timestamp": "2026-07-30T16:12:40.299248",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Metadata Enrichment",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Metadata Enrichment",
+  "documents": 9
+}
+{
+  "timestamp": "2026-07-30T16:12:40.304288",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Chunking",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Chunking",
+  "documents": 9
+}
+{
+  "timestamp": "2026-07-30T16:12:40.305925",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Created 148 chunks",
+  "module": "app",
+  "function": "ingest_documents",
+  "line": 63
+}
+{
+  "timestamp": "2026-07-30T16:12:40.306923",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Embedding Generation",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Embedding Generation",
+  "chunks": 148
+}
+{
+  "timestamp": "2026-07-30T16:12:47.899079",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Vector Storage",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Vector Storage",
+  "vectors": 148
+}
+{
+  "timestamp": "2026-07-30T16:28:14.044666",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Starting document ingestion from data",
+  "module": "app",
+  "function": "ingest_documents",
+  "line": 49
+}
+{
+  "timestamp": "2026-07-30T16:28:14.044666",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Document Ingestion",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Document Ingestion",
+  "directory": "data"
+}
+{
+  "timestamp": "2026-07-30T16:28:14.064381",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Parsed 9 documents",
+  "module": "app",
+  "function": "ingest_documents",
+  "line": 54
+}
+{
+  "timestamp": "2026-07-30T16:28:14.065953",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Metadata Enrichment",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Metadata Enrichment",
+  "documents": 9
+}
+{
+  "timestamp": "2026-07-30T16:28:14.068541",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Chunking",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Chunking",
+  "documents": 9
+}
+{
+  "timestamp": "2026-07-30T16:28:14.079250",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Created 148 chunks",
+  "module": "app",
+  "function": "ingest_documents",
+  "line": 63
+}
+{
+  "timestamp": "2026-07-30T16:28:14.079250",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Embedding Generation",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Embedding Generation",
+  "chunks": 148
+}
+{
+  "timestamp": "2026-07-30T16:28:25.023782",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Vector Storage",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Vector Storage",
+  "vectors": 148
+}
+{
+  "timestamp": "2026-07-30T16:28:28.281513",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Document ingestion complete",
+  "module": "app",
+  "function": "ingest_documents",
+  "line": 79
+}
+{
+  "timestamp": "2026-07-30T16:31:48.556661",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Starting document ingestion from data",
+  "module": "app",
+  "function": "ingest_documents",
+  "line": 49
+}
+{
+  "timestamp": "2026-07-30T16:31:48.558024",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Document Ingestion",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Document Ingestion",
+  "directory": "data"
+}
+{
+  "timestamp": "2026-07-30T16:31:48.586687",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Parsed 9 documents",
+  "module": "app",
+  "function": "ingest_documents",
+  "line": 54
+}
+{
+  "timestamp": "2026-07-30T16:31:48.586687",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Metadata Enrichment",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Metadata Enrichment",
+  "documents": 9
+}
+{
+  "timestamp": "2026-07-30T16:31:48.601011",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Chunking",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Chunking",
+  "documents": 9
+}
+{
+  "timestamp": "2026-07-30T16:31:48.605260",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Created 148 chunks",
+  "module": "app",
+  "function": "ingest_documents",
+  "line": 63
+}
+{
+  "timestamp": "2026-07-30T16:31:48.607413",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Embedding Generation",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Embedding Generation",
+  "chunks": 148
+}
+{
+  "timestamp": "2026-07-30T16:31:59.912535",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Phase: Vector Storage",
+  "module": "logger",
+  "function": "log_phase",
+  "line": 58,
+  "phase": "Vector Storage",
+  "vectors": 148
+}
+{
+  "timestamp": "2026-07-30T16:32:03.577582",
+  "level": "INFO",
+  "logger": "rag_pipeline",
+  "message": "Document ingestion complete",
+  "module": "app",
+  "function": "ingest_documents",
+  "line": 79
+}

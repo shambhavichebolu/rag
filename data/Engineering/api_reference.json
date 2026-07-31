@@ -1,0 +1,403 @@
+{
+  "api_name": "Company API",
+  "version": "2.1.0",
+  "base_url": "https://api.company.com/v2",
+  "description": "RESTful API for accessing company services and data",
+  "authentication": {
+    "type": "Bearer Token",
+    "header": "Authorization: Bearer {token}",
+    "token_endpoint": "/auth/token"
+  },
+  "endpoints": {
+    "users": {
+      "list_users": {
+        "method": "GET",
+        "path": "/users",
+        "description": "Retrieve list of all users",
+        "parameters": {
+          "query": {
+            "limit": {
+              "type": "integer",
+              "description": "Maximum number of users to return",
+              "default": 50,
+              "maximum": 100
+            },
+            "offset": {
+              "type": "integer",
+              "description": "Number of users to skip",
+              "default": 0
+            },
+            "department": {
+              "type": "string",
+              "description": "Filter by department",
+              "enum": ["HR", "IT", "Engineering", "Sales", "Marketing"]
+            }
+          }
+        },
+        "response": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "users": [
+                {
+                  "id": "string",
+                  "name": "string",
+                  "email": "string",
+                  "department": "string",
+                  "role": "string",
+                  "created_at": "datetime"
+                }
+              ],
+              "total": "integer",
+              "limit": "integer",
+              "offset": "integer"
+            }
+          }
+        }
+      },
+      "get_user": {
+        "method": "GET",
+        "path": "/users/{user_id}",
+        "description": "Retrieve a specific user by ID",
+        "parameters": {
+          "path": {
+            "user_id": {
+              "type": "string",
+              "required": true,
+              "description": "Unique user identifier"
+            }
+          }
+        },
+        "response": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "id": "string",
+              "name": "string",
+              "email": "string",
+              "department": "string",
+              "role": "string",
+              "manager_id": "string",
+              "created_at": "datetime",
+              "updated_at": "datetime"
+            }
+          },
+          "404": {
+            "description": "User not found"
+          }
+        }
+      },
+      "create_user": {
+        "method": "POST",
+        "path": "/users",
+        "description": "Create a new user",
+        "request_body": {
+          "name": {
+            "type": "string",
+            "required": true
+          },
+          "email": {
+            "type": "string",
+            "required": true,
+            "format": "email"
+          },
+          "department": {
+            "type": "string",
+            "required": true
+          },
+          "role": {
+            "type": "string",
+            "required": true
+          },
+          "manager_id": {
+            "type": "string",
+            "required": false
+          }
+        },
+        "response": {
+          "201": {
+            "description": "User created successfully",
+            "schema": {
+              "id": "string",
+              "name": "string",
+              "email": "string",
+              "department": "string",
+              "role": "string",
+              "created_at": "datetime"
+            }
+          },
+          "400": {
+            "description": "Invalid request"
+          }
+        }
+      },
+      "update_user": {
+        "method": "PUT",
+        "path": "/users/{user_id}",
+        "description": "Update an existing user",
+        "parameters": {
+          "path": {
+            "user_id": {
+              "type": "string",
+              "required": true
+            }
+          }
+        },
+        "request_body": {
+          "name": {
+            "type": "string",
+            "required": false
+          },
+          "email": {
+            "type": "string",
+            "required": false,
+            "format": "email"
+          },
+          "department": {
+            "type": "string",
+            "required": false
+          },
+          "role": {
+            "type": "string",
+            "required": false
+          }
+        },
+        "response": {
+          "200": {
+            "description": "User updated successfully"
+          },
+          "404": {
+            "description": "User not found"
+          }
+        }
+      },
+      "delete_user": {
+        "method": "DELETE",
+        "path": "/users/{user_id}",
+        "description": "Delete a user",
+        "parameters": {
+          "path": {
+            "user_id": {
+              "type": "string",
+              "required": true
+            }
+          }
+        },
+        "response": {
+          "204": {
+            "description": "User deleted successfully"
+          },
+          "404": {
+            "description": "User not found"
+          }
+        }
+      }
+    },
+    "projects": {
+      "list_projects": {
+        "method": "GET",
+        "path": "/projects",
+        "description": "Retrieve list of all projects",
+        "parameters": {
+          "query": {
+            "status": {
+              "type": "string",
+              "enum": ["active", "completed", "on_hold", "cancelled"]
+            },
+            "department": {
+              "type": "string"
+            },
+            "limit": {
+              "type": "integer",
+              "default": 50
+            }
+          }
+        },
+        "response": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "projects": [
+                {
+                  "id": "string",
+                  "name": "string",
+                  "description": "string",
+                  "status": "string",
+                  "department": "string",
+                  "lead_id": "string",
+                  "start_date": "date",
+                  "end_date": "date"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "create_project": {
+        "method": "POST",
+        "path": "/projects",
+        "description": "Create a new project",
+        "request_body": {
+          "name": {
+            "type": "string",
+            "required": true
+          },
+          "description": {
+            "type": "string",
+            "required": true
+          },
+          "department": {
+            "type": "string",
+            "required": true
+          },
+          "lead_id": {
+            "type": "string",
+            "required": true
+          },
+          "start_date": {
+            "type": "date",
+            "required": true
+          },
+          "end_date": {
+            "type": "date",
+            "required": false
+          }
+        },
+        "response": {
+          "201": {
+            "description": "Project created successfully"
+          }
+        }
+      }
+    },
+    "reports": {
+      "generate_report": {
+        "method": "POST",
+        "path": "/reports",
+        "description": "Generate a report",
+        "request_body": {
+          "report_type": {
+            "type": "string",
+            "enum": ["user_activity", "project_status", "department_summary"],
+            "required": true
+          },
+          "start_date": {
+            "type": "date",
+            "required": true
+          },
+          "end_date": {
+            "type": "date",
+            "required": true
+          },
+          "filters": {
+            "type": "object",
+            "required": false
+          }
+        },
+        "response": {
+          "200": {
+            "description": "Report generated",
+            "schema": {
+              "report_id": "string",
+              "status": "processing",
+              "download_url": "string"
+            }
+          }
+        }
+      },
+      "get_report": {
+        "method": "GET",
+        "path": "/reports/{report_id}",
+        "description": "Retrieve a generated report",
+        "parameters": {
+          "path": {
+            "report_id": {
+              "type": "string",
+              "required": true
+            }
+          }
+        },
+        "response": {
+          "200": {
+            "description": "Report data",
+            "schema": {
+              "report_id": "string",
+              "status": "completed",
+              "data": "object",
+              "generated_at": "datetime"
+            }
+          }
+        }
+      }
+    }
+  },
+  "error_codes": {
+    "400": "Bad Request - Invalid input parameters",
+    "401": "Unauthorized - Invalid or missing authentication token",
+    "403": "Forbidden - Insufficient permissions",
+    "404": "Not Found - Resource does not exist",
+    "429": "Too Many Requests - Rate limit exceeded",
+    "500": "Internal Server Error - Server error occurred",
+    "503": "Service Unavailable - API temporarily unavailable"
+  },
+  "rate_limiting": {
+    "requests_per_minute": 100,
+    "requests_per_hour": 1000,
+    "burst_limit": 200
+  },
+  "webhooks": {
+    "description": "Configure webhooks to receive real-time notifications",
+    "supported_events": [
+      "user.created",
+      "user.updated",
+      "user.deleted",
+      "project.created",
+      "project.updated",
+      "project.completed"
+    ],
+    "configuration": {
+      "method": "POST",
+      "path": "/webhooks",
+      "request_body": {
+        "url": {
+          "type": "string",
+          "required": true,
+          "format": "uri"
+        },
+        "events": {
+          "type": "array",
+          "required": true,
+          "items": {
+            "type": "string"
+          }
+        },
+        "secret": {
+          "type": "string",
+          "required": true
+        }
+      }
+    }
+  },
+  "sdk_libraries": {
+    "python": {
+      "package": "company-api-python",
+      "version": "2.1.0",
+      "installation": "pip install company-api-python"
+    },
+    "javascript": {
+      "package": "@company/api",
+      "version": "2.1.0",
+      "installation": "npm install @company/api"
+    },
+    "java": {
+      "package": "com.company.api",
+      "version": "2.1.0",
+      "maven": "com.company:api-client:2.1.0"
+    }
+  },
+  "support": {
+    "documentation": "https://docs.company.com/api",
+    "contact": "api-support@company.com",
+    "status_page": "https://status.company.com"
+  }
+}

@@ -1,0 +1,31 @@
+Holiday,Date,Day,Type,Observance
+New Year's Day,2024-01-01,Monday,Public,Company closed
+Martin Luther King Jr. Day,2024-01-15,Monday,Public,Company closed
+Presidents' Day,2024-02-19,Monday,Public,Company closed
+Good Friday,2024-03-29,Friday,Public,Company closed
+Memorial Day,2024-05-27,Monday,Public,Company closed
+Juneteenth,2024-06-19,Wednesday,Public,Company closed
+Independence Day,2024-07-04,Thursday,Public,Company closed
+Labor Day,2024-09-02,Monday,Public,Company closed
+Columbus Day,2024-10-14,Monday,Public,Company closed
+Veterans Day,2024-11-11,Monday,Public,Company closed
+Thanksgiving Day,2024-11-28,Thursday,Public,Company closed
+Day after Thanksgiving,2024-11-29,Friday,Company,Company closed
+Christmas Eve,2024-12-24,Tuesday,Company,Company closes at 2 PM
+Christmas Day,2024-12-25,Wednesday,Public,Company closed
+New Year's Eve,2024-12-31,Tuesday,Company,Company closes at 2 PM
+New Year's Day,2025-01-01,Wednesday,Public,Company closed
+Martin Luther King Jr. Day,2025-01-20,Monday,Public,Company closed
+Presidents' Day,2025-02-17,Monday,Public,Company closed
+Good Friday,2025-04-18,Friday,Public,Company closed
+Memorial Day,2025-05-26,Monday,Public,Company closed
+Juneteenth,2025-06-19,Thursday,Public,Company closed
+Independence Day,2025-07-04,Friday,Public,Company closed
+Labor Day,2025-09-01,Monday,Public,Company closed
+Columbus Day,2025-10-13,Monday,Public,Company closed
+Veterans Day,2025-11-11,Tuesday,Public,Company closed
+Thanksgiving Day,2025-11-27,Thursday,Public,Company closed
+Day after Thanksgiving,2025-11-28,Friday,Company,Company closed
+Christmas Eve,2025-12-24,Wednesday,Company,Company closes at 2 PM
+Christmas Day,2025-12-25,Thursday,Public,Company closed
+New Year's Eve,2025-12-31,Wednesday,Company,Company closes at 2 PM
